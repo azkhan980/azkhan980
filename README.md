@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/azkhan980/azeemkhan/blob/main/360_F_779927142_PZ9ZEE7DENGfdudCv19g33EMonBJ9kdO.jpg" alt="Banner Image" width="100%"/>
+  <img src="https://github.com/azkhan980/azeemkhan/blob/main/efwen.jpg" alt="Banner Image" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Azeem Khan 👋</h1>
