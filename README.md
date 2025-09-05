@@ -6,10 +6,12 @@
 <h1 align="center">Hi, I'm Azeem Khan 👋</h1>
 <p align="center"><strong>Data Scientist · Marketing & IT Professional · Content Creator</strong></p>
 
-<!-- Quick Actions -->
+<!-- Quick Navigation -->
 <p align="center">
   <a href="#-about-me">About</a> •
   <a href="#-projects--work">Projects</a> •
+  <a href="#-nft-gallery">NFTs</a> •
+  <a href="#-magazine-designs">Magazines</a> •
   <a href="#-programming--coding-languages">Coding</a> •
   <a href="#-skills-overview">Skills</a> •
   <a href="#-education">Education</a> •
@@ -27,8 +29,7 @@
   <summary><b>Click to download my CV</b></summary>
   <br/>
   <p>
-    <!-- Update this file name after you upload your CV to the repo -->
-    <a href="https://github.com/azkhan980/azkhan980/blob/main/resume_azeem_khan.pdf">
+    <a href="https://github.com/azkhan980/azkhan980/raw/main/Azeem_Khan_CV.pdf">
       <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV">
     </a>
   </p>
@@ -38,7 +39,7 @@
 
 ## 🌟 About Me
 
-<img align="right" src="https://github.com/azkhan980/azkhan980/blob/main/AK%20Logo.jpg" alt="Profile Photo" width="220"/>
+<img align="right" src="https://github.com/azkhan980/azkhan980/blob/main/Profile%20Photo%20GIF.gif" alt="Profile Photo" width="220"/>
 
 I’m a results-driven professional with a strong background in **Data Science, Business Administration, IT, and Digital Marketing**.  
 I turn data into clear actions that help businesses grow, optimize campaigns, and improve customer experience.
@@ -57,20 +58,46 @@ I turn data into clear actions that help businesses grow, optimize campaigns, an
 
 | Project | Description | Preview |
 |---|---|---|
-| **Business Environment & Leadership Analysis** | Applied PESTEL, SWOT, and Porter’s Five Forces on real companies (e.g., McDonald’s). Built recommendations for strategy and leadership effectiveness. | <img src="https://github.com/azkhan980/azeemkhan/blob/main/360_F_779927142_PZ9ZEE7DENGfdudCv19g33EMonBJ9kdO.jpg" alt="Business Analysis" width="200"/> |
-| **Data Visualization Dashboards** | Designed dashboards in **Python**, **Tableau**, and **Power BI** for decision support and KPI tracking. | <img src="https://github.com/azkhan980/azeemkhan/blob/main/360_F_779927142_PZ9ZEE7DENGfdudCv19g33EMonBJ9kdO.jpg" alt="Data Viz" width="200"/> |
+| **Business Environment & Leadership Analysis** | Applied PESTEL, SWOT, and Porter’s Five Forces on real companies (e.g., McDonald’s). | <img src="https://github.com/azkhan980/azkhan980/blob/main/360_F_779927142_PZ9ZEE7DENGfdudCv19g33EMonBJ9kdO.jpg" width="200"/> |
+| **Data Visualization Dashboards** | Designed dashboards in **Python**, **Tableau**, and **Power BI** for decision support and KPI tracking. | <img src="https://github.com/azkhan980/azkhan980/blob/main/360_F_779927142_PZ9ZEE7DENGfdudCv19g33EMonBJ9kdO.jpg" width="200"/> |
 
 </details>
 
-<details>
-<summary>🎨 Creative & Freelance Work</summary>
+---
 
-| Project | Description | Preview |
-|---|---|---|
-| **NFT Digital Art Collection** | Produced branded NFT drops, digital artwork, and campaign assets across marketplaces. | <img src="https://github.com/azkhan980/azeemkhan/blob/main/360_F_779927142_PZ9ZEE7DENGfdudCv19g33EMonBJ9kdO.jpg" alt="NFT" width="200"/> |
-| **Social Media Campaigns** | Built growth content for **YouTube, TikTok, Instagram**, and **X**, improving reach and engagement. | <img src="https://github.com/azkhan980/azeemkhan/blob/main/360_F_779927142_PZ9ZEE7DENGfdudCv19g33EMonBJ9kdO.jpg" alt="Social Campaigns" width="200"/> |
+## 🎨 NFT Gallery
 
-</details>
+<p align="center">
+  <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT01.jpg" width="200"/>
+  <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT02.jpg" width="200"/>
+  <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT03.jpg" width="200"/>
+  <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT04.jpg" width="200"/>
+  <br/>
+  <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT05.jpg" width="200"/>
+  <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT06.jpg" width="200"/>
+  <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT07.jpg" width="200"/>
+  <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT08.jpg" width="200"/>
+</p>
+
+---
+
+## 📖 Magazine Designs
+
+<p align="center">
+  <a href="https://github.com/azkhan980/azkhan980/blob/main/TTT%20First%20Edition.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View-First%20Edition-blue?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+  <br/>
+  <embed src="https://github.com/azkhan980/azkhan980/blob/main/TTT%20First%20Edition.pdf" type="application/pdf" width="100%" height="400px" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/azkhan980/azkhan980/blob/main/TTT%20Second%20Edition.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View-Second%20Edition-green?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+  <br/>
+  <embed src="https://github.com/azkhan980/azkhan980/blob/main/TTT%20Second%20Edition.pdf" type="application/pdf" width="100%" height="400px" />
+</p>
 
 ---
 
@@ -89,49 +116,99 @@ I turn data into clear actions that help businesses grow, optimize campaigns, an
 
 ## 🛠️ Skills Overview
 
-| Category | Tools |
-|---|---|
-| **Data Science & Analytics** | Pandas, NumPy, Matplotlib, Scikit-learn, Tableau, Power BI |
-| **Web Development** | WordPress, HTML, CSS, Responsive Design |
-| **Digital Marketing** | Google Ads, Google Analytics, SEMrush, SEO, Meta Business Suite |
-| **Creative Design** | Photoshop, Illustrator, InDesign, Premiere Pro, Filmora, Canva, Figma |
-| **AI Tools** | ChatGPT, MidJourney, Stable Diffusion, Runway Gen-2, Adobe Firefly, Jasper AI |
-| **Cloud & Collaboration** | GitHub, GitHub Copilot, Git, GCP, AWS, Version Control |
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="45%">
+        <h3>📊 Data Science & Analytics</h3>
+        <p>Pandas · NumPy · Matplotlib · Scikit-learn · Tableau · Power BI</p>
+      </td>
+      <td align="center" width="45%">
+        <h3>💻 Web Development</h3>
+        <p>WordPress · HTML · CSS · Responsive Design</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="45%">
+        <h3>📈 Digital Marketing</h3>
+        <p>Google Ads · Google Analytics · SEMrush · SEO · Meta Business Suite</p>
+      </td>
+      <td align="center" width="45%">
+        <h3>🎨 Creative Design</h3>
+        <p>Photoshop · Illustrator · InDesign · Premiere Pro · Filmora · Canva · Figma</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="45%">
+        <h3>🤖 AI Tools</h3>
+        <p>ChatGPT · MidJourney · Stable Diffusion · Runway Gen-2 · Adobe Firefly · Jasper AI</p>
+      </td>
+      <td align="center" width="45%">
+        <h3>☁️ Cloud & Collaboration</h3>
+        <p>GitHub · GitHub Copilot · Git · GCP · AWS · Version Control</p>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
 ## 🎓 Education
 
-### 📘 MSc in Data Science — *University of East London* (2025 — Present)
-- Focus on **data analytics**, **machine learning**, **statistical modeling**  
-- Projects with **Python, R**, big-data tooling, and data visualization  
-- Active in **Data Science & AI Society**, **Hackathons**, **Public Speaking Club**
-
----
-
-### 📗 BSc in Business Administration — *Qualifi Ltd & LIBS* (2021 — 2023)
-- **Distinction (GPA: 83/100)**  
-- Strategic Marketing, Business Law, Research Writing, Organizational Leadership  
-- Case studies, business simulations, and marketing competitions  
-- Entrepreneurship Club & Digital Marketing Society
-
----
-
-### 📙 Level 3 IFD (Business & Technology) — *NCC Education, UK* (2020 — 2021)
-- **Distinction (GPA: 71/100)**  
-- Business strategy, reporting, creative communication  
-- Workshops, projects, and case study competitions
-
----
-
-### 📕 Diploma in Web Designing & Development — *Habib University (iACT)* (2016 — 2017)
-- HTML, CSS, webpage design, responsive interfaces  
-- Practical troubleshooting and development  
-- Career development and communication through projects
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="45%">
+        <h3>📘 MSc in Data Science</h3>
+        <p><em>University of East London (2025 — Present)</em></p>
+        <ul align="left">
+          <li>Focus: Data Analytics, Machine Learning, Statistical Modeling</li>
+          <li>Projects with Python, R, Big Data & Visualization</li>
+          <li>Active in AI Society, Hackathons & Public Speaking</li>
+        </ul>
+      </td>
+      <td align="center" width="45%">
+        <h3>📗 BSc in Business Administration</h3>
+        <p><em>Qualifi Ltd & LIBS (2021 — 2023)</em></p>
+        <ul align="left">
+          <li>Distinction (GPA: 83/100)</li>
+          <li>Strategic Marketing, Business Law, Leadership</li>
+          <li>Case Studies, Business Simulations, Competitions</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="45%">
+        <h3>📙 Level 3 IFD (Business & Technology)</h3>
+        <p><em>NCC Education, UK (2020 — 2021)</em></p>
+        <ul align="left">
+          <li>Distinction (GPA: 71/100)</li>
+          <li>Business Strategy, Reporting, Creative Communication</li>
+          <li>Workshops, Projects & Case Studies</li>
+        </ul>
+      </td>
+      <td align="center" width="45%">
+        <h3>📕 Diploma in Web Designing & Development</h3>
+        <p><em>Habib University (iACT) (2016 — 2017)</em></p>
+        <ul align="left">
+          <li>HTML, CSS, Webpage Design, Responsive Interfaces</li>
+          <li>Practical Troubleshooting & Technical Development</li>
+          <li>Career Development & Communication Skills</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
 ## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github.com/azkhan980/azkhan980/blob/main/AchievementImage01.jpg" width="200"/>
+  <img src="https://github.com/azkhan980/azkhan980/blob/main/AchievementImage02.jpg" width="200"/>
+  <img src="https://github.com/azkhan980/azkhan980/blob/main/AchievementImage03.jpg" width="200"/>
+</p>
 
 - 🥇 **1st Place — Ad-Wars Competition** (Denning International Foundation, 2021)  
 - 🎤 Participation in **Hackathons**, **Public Speaking**, **ITCN Asia Expo 2023**  
@@ -151,13 +228,16 @@ I turn data into clear actions that help businesses grow, optimize campaigns, an
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:azkhan980@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/azeemahmedkhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/azkhan980"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.youtube.com/azeemahmedvlog"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://www.instagram.com/azeemahmedvlogs"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.facebook.com/azeemahmedvlog"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="mailto:azkhan980@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/azeemahmedkhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/azkhan980"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@yourhandle"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://www.facebook.com/yourhandle"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 ---
+
+⭐ Always eager to combine creativity, technology, and data to deliver impactful results.
