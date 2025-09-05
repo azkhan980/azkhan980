@@ -25,15 +25,11 @@
 
 ## 📄 Download CV
 
-<details open>
-  <summary><b>Click to download my CV</b></summary>
-  <br/>
-  <p>
-    <a href="https://github.com/azkhan980/azkhan980/raw/main/Azeem_Khan_CV.pdf">
-      <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV">
-    </a>
-  </p>
-</details>
+<p align="center">
+  <a href="https://github.com/azkhan980/azkhan980/raw/main/Azeem_Khan_CV.pdf">
+    <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV">
+  </a>
+</p>
 
 ---
 
@@ -53,15 +49,10 @@ I turn data into clear actions that help businesses grow, optimize campaigns, an
 
 ## 📂 Projects & Work
 
-<details>
-<summary>🔹 Business & Data Analysis</summary>
-
 | Project | Description | Preview |
-|---|---|---|
-| **Business Environment & Leadership Analysis** | Applied PESTEL, SWOT, and Porter’s Five Forces on real companies (e.g., McDonald’s). | <img src="https://github.com/azkhan980/azkhan980/blob/main/360_F_779927142_PZ9ZEE7DENGfdudCv19g33EMonBJ9kdO.jpg" width="200"/> |
-| **Data Visualization Dashboards** | Designed dashboards in **Python**, **Tableau**, and **Power BI** for decision support and KPI tracking. | <img src="https://github.com/azkhan980/azkhan980/blob/main/360_F_779927142_PZ9ZEE7DENGfdudCv19g33EMonBJ9kdO.jpg" width="200"/> |
-
-</details>
+|---------|-------------|---------|
+| **Business Environment & Leadership Analysis** | Applied PESTEL, SWOT, and Porter’s Five Forces on real companies (e.g., McDonald’s). | [View PDF](https://github.com/azkhan980/azkhan980/blob/main/Analysis%20of%20Business%20Environments%20and%20Leadership%20Styles.pdf) |
+| **Data Visualization Dashboards** | Designed dashboards in **Python**, **Tableau**, and **Power BI** for decision support and KPI tracking. | [View Example](https://github.com/azkhan980/azkhan980/blob/main/360_F_779927142_PZ9ZEE7DENGfdudCv19g33EMonBJ9kdO.jpg) |
 
 ---
 
@@ -88,15 +79,9 @@ I turn data into clear actions that help businesses grow, optimize campaigns, an
     <img src="https://img.shields.io/badge/View-First%20Edition-blue?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
   <br/>
-  <embed src="https://github.com/azkhan980/azkhan980/blob/main/TTT%20First%20Edition.pdf" type="application/pdf" width="100%" height="400px" />
-</p>
-
-<p align="center">
   <a href="https://github.com/azkhan980/azkhan980/blob/main/TTT%20Second%20Edition.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View-Second%20Edition-green?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
-  <br/>
-  <embed src="https://github.com/azkhan980/azkhan980/blob/main/TTT%20Second%20Edition.pdf" type="application/pdf" width="100%" height="400px" />
 </p>
 
 ---
@@ -107,9 +92,26 @@ I turn data into clear actions that help businesses grow, optimize campaigns, an
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAS-252B4A?style=for-the-badge&logo=sas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NoSQL-100000?style=for-the-badge&logo=mongodb&logoColor=green"/>
 </p>
 
 ---
@@ -208,77 +210,51 @@ I turn data into clear actions that help businesses grow, optimize campaigns, an
   <img src="https://github.com/azkhan980/azkhan980/blob/main/AchievementImage01.jpg" width="200"/>
   <img src="https://github.com/azkhan980/azkhan980/blob/main/AchievementImage2.jpg" width="200"/>
   <img src="https://github.com/azkhan980/azkhan980/blob/main/AchievementImage03.jpg" width="200"/>
+  <br/><br/>
+  <a href="https://www.instagram.com/tv/CLj4Gk8gQ_1/?igsh=MXNrYjl2Y2U0aWU2dg==" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Video-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Video"/>
+  </a>
 </p>
 
 - 🥇 **1st Place — Ad-Wars Competition** (Denning International Foundation, 2021)  
 - 🎤 Participation in **Hackathons**, **Public Speaking**, **ITCN Asia Expo 2023**  
 - 📜 Certifications: Google Digital Marketing & E-Commerce, AI & Ethical Hacking (PFTP), Blockchain & P2P (EBI Luxembourg), ERP Implementation (NED)
 
---- 
+---
 
-## 🎖️ Special Recognition
-
-<p align="center">
-  <img src="https://github.com/azkhan980/azkhan980/blob/main/Special%20tital%20from%20my%20Uni.jpg" alt="Special Title from University" width="60%"/>
-</p>
+## 📝 Testimonials
 
 <p align="center">
-  <strong>Recognized for outstanding academic and professional achievement by my University.</strong>
+  <table>
+    <tr>
+      <td style="border:1px solid #ccc; padding:10px;" width="25%" valign="top">
+        **⭐ Pinned**<br/>
+        > "Azeem’s insights on data analytics helped our team make smarter business decisions quickly."<br/>
+        <strong>John Doe</strong><br/>
+        ABC Corporation
+      </td>
+      <td style="border:1px solid #ccc; padding:10px;" width="25%" valign="top">
+        **⭐ Pinned**<br/>
+        > "His creative approach to digital marketing significantly boosted our engagement."<br/>
+        <strong>Jane Smith</strong><br/>
+        Private Client
+      </td>
+      <td style="border:1px solid #ccc; padding:10px;" width="25%" valign="top">
+        **⭐ Pinned**<br/>
+        > "Azeem’s dedication and professionalism are unmatched; he delivers results every time."<br/>
+        <strong>Michael Lee</strong><br/>
+        XYZ Ltd.
+      </td>
+      <td style="border:1px solid #ccc; padding:10px;" width="25%" valign="top">
+        **⭐ Pinned**<br/>
+        > "Working with Azeem was a pleasure; his insights into IT and analytics are top-notch."<br/>
+        <strong>Sarah Khan</strong><br/>
+        Private Client
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azkhan980&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azkhan980&theme=tokyonight" height="160" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:azkhan980@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/azeemahmedkhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/azkhan980"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.tiktok.com/@yourhandle"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-  <a href="https://www.facebook.com/yourhandle"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
-
----  
-
-## 📺 My YouTube Videos
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=p72SifJWzD0" target="_blank">
-    <img src="https://img.youtube.com/vi/p72SifJWzD0/0.jpg" alt="Video 1" width="200"/>
-  </a>
-  <a href="https://www.youtube.com/watch?v=8eyH-Pj1L-c" target="_blank">
-    <img src="https://img.youtube.com/vi/8eyH-Pj1L-c/0.jpg" alt="Video 2" width="200"/>
-  </a>
-  <a href="https://www.youtube.com/watch?v=fMUQwZhEJyY" target="_blank">
-    <img src="https://img.youtube.com/vi/fMUQwZhEJyY/0.jpg" alt="Video 3" width="200"/>
-  </a>
-  <a href="https://www.youtube.com/watch?v=t-_2kjEsc7g" target="_blank">
-    <img src="https://img.youtube.com/vi/t-_2kjEsc7g/0.jpg" alt="Video 4" width="200"/>
-  </a>
-</p>
-
-<p align="center">
-  Click on the thumbnails to watch my videos on YouTube.
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/@azeemahmedvlogs" target="_blank">
-    <img src="https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube"/>
-  </a>
-</p>
-
----
 ⭐ Always eager to combine creativity, technology, and data to deliver impactful results.
