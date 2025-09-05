@@ -206,7 +206,7 @@ I turn data into clear actions that help businesses grow, optimize campaigns, an
 
 <p align="center">
   <img src="https://github.com/azkhan980/azkhan980/blob/main/AchievementImage01.jpg" width="200"/>
-  <img src="https://github.com/azkhan980/azkhan980/blob/main/AchievementImage02.jpg" width="200"/>
+  <img src="https://github.com/azkhan980/azkhan980/blob/main/AchievementImage2.jpg" width="200"/>
   <img src="https://github.com/azkhan980/azkhan980/blob/main/AchievementImage03.jpg" width="200"/>
 </p>
 
@@ -214,7 +214,20 @@ I turn data into clear actions that help businesses grow, optimize campaigns, an
 - 🎤 Participation in **Hackathons**, **Public Speaking**, **ITCN Asia Expo 2023**  
 - 📜 Certifications: Google Digital Marketing & E-Commerce, AI & Ethical Hacking (PFTP), Blockchain & P2P (EBI Luxembourg), ERP Implementation (NED)
 
+--- 
+
+## 🎖️ Special Recognition
+
+<p align="center">
+  <img src="https://github.com/azkhan980/azkhan980/blob/main/Special%20tital%20from%20my%20Uni.jpg" alt="Special Title from University" width="60%"/>
+</p>
+
+<p align="center">
+  <strong>Recognized for outstanding academic and professional achievement by my University.</strong>
+</p>
+
 ---
+
 
 ## 📊 GitHub Stats
 
@@ -238,6 +251,34 @@ I turn data into clear actions that help businesses grow, optimize campaigns, an
   <a href="https://www.facebook.com/yourhandle"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
----
+---  
 
+## 📺 My YouTube Videos
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=p72SifJWzD0" target="_blank">
+    <img src="https://img.youtube.com/vi/p72SifJWzD0/0.jpg" alt="Video 1" width="200"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=8eyH-Pj1L-c" target="_blank">
+    <img src="https://img.youtube.com/vi/8eyH-Pj1L-c/0.jpg" alt="Video 2" width="200"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=fMUQwZhEJyY" target="_blank">
+    <img src="https://img.youtube.com/vi/fMUQwZhEJyY/0.jpg" alt="Video 3" width="200"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=t-_2kjEsc7g" target="_blank">
+    <img src="https://img.youtube.com/vi/t-_2kjEsc7g/0.jpg" alt="Video 4" width="200"/>
+  </a>
+</p>
+
+<p align="center">
+  Click on the thumbnails to watch my videos on YouTube.
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@azeemahmedvlogs" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube"/>
+  </a>
+</p>
+
+---
 ⭐ Always eager to combine creativity, technology, and data to deliver impactful results.
