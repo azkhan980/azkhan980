@@ -32,10 +32,6 @@
       <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV">
     </a>
   </p>
-  <p>
-    If the button doesn’t download, make sure your CV file is at:
-    <code>azkhan980/azkhan980/Azeem_Khan_CV.pdf</code>
-  </p>
 </details>
 
 ---
@@ -158,18 +154,10 @@ I turn data into clear actions that help businesses grow, optimize campaigns, an
   <a href="mailto:azkhan980@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/azeemahmedkhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/azkhan980"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://www.instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/azeemahmedvlog"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.instagram.com/azeemahmedvlogs"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.tiktok.com/@yourhandle"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-  <a href="https://www.facebook.com/yourhandle"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.facebook.com/azeemahmedvlog"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 ---
-
-### 🔧 Notes
-- Replace `yourchannel` and `yourhandle` with your real social links.
-- For the CV button, upload your PDF as **Azeem_Khan_CV.pdf** here: `azkhan980/azkhan980/`.
-- Want separate screenshots for each project? Replace the image URLs in the **Projects & Work** tables.
-
-⭐ Always happy to collaborate on data, marketing, and creative tech projects.
