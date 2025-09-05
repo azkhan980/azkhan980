@@ -253,6 +253,36 @@ I turn data into clear actions that help businesses grow, optimize campaigns, an
 
 ---
 
+## 📺 My YouTube Videos
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=p72SifJWzD0" target="_blank">
+    <img src="https://img.youtube.com/vi/p72SifJWzD0/0.jpg" alt="Video 1" width="200"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=8eyH-Pj1L-c" target="_blank">
+    <img src="https://img.youtube.com/vi/8eyH-Pj1L-c/0.jpg" alt="Video 2" width="200"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=fMUQwZhEJyY" target="_blank">
+    <img src="https://img.youtube.com/vi/fMUQwZhEJyY/0.jpg" alt="Video 3" width="200"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=t-_2kjEsc7g" target="_blank">
+    <img src="https://img.youtube.com/vi/t-_2kjEsc7g/0.jpg" alt="Video 4" width="200"/>
+  </a>
+</p>
+
+<p align="center">
+  Click on the thumbnails to watch my videos on YouTube.
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@azeemahmedvlogs" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube"/>
+  </a>
+</p>
+
+---
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
