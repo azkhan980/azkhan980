@@ -233,6 +233,63 @@ A demo version of an emergent platform module. Built to showcase flexible UI/UX 
 
 ---
 
+<h2 align="center">💼 Work Experience</h2>
+
+<p align="center">
+  <table>
+    <tr>
+      <td style="border:1px solid #ccc; padding:15px;" width="90%" valign="top">
+        ⭐ <strong>Data and IT Support Specialist</strong><br/>
+        <strong>Mansha Brothers</strong> | Karachi, Pakistan | Jan '24 — Aug '25<br/><br/>
+        <em>
+        • Developed and implemented IT support strategies to optimize system performance and data workflows.<br/>
+        • Conducted diagnostics, analyzed feedback, and improved IT services and processes.<br/>
+        • Supported marketing campaigns by analyzing data, managing content, and optimizing workflows.<br/>
+        • Coordinated software installations, updates, and system rollouts.
+        </em>
+      </td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc; padding:15px;" width="90%" valign="top">
+        ⭐ <strong>Data Management & Marketing Assistant</strong><br/>
+        <strong>PhoenixiTek</strong> | United States (Remote) | Aug '22 — Aug '23<br/><br/>
+        <em>
+        • Supported digital marketing initiatives and managed key data operations remotely.<br/>
+        • Handled accurate data entry, maintained digital information, and assisted in web design tasks.<br/>
+        • Analyzed data to support decision-making and online marketing campaigns.<br/>
+        • Improved operational efficiency and enhanced brand presence.
+        </em>
+      </td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc; padding:15px;" width="90%" valign="top">
+        ⭐ <strong>Junior Student Affairs Coordinator</strong><br/>
+        <strong>Denning Law School</strong> | Karachi, Pakistan | Jul '21 — Dec '22<br/><br/>
+        <em>
+        • Managed administrative tasks to ensure smooth operations.<br/>
+        • Handled social media platforms to improve communication and engagement.<br/>
+        • Coordinated academic and extracurricular events to boost student experience.<br/>
+        • Developed strong organizational, communication, and leadership skills.
+        </em>
+      </td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc; padding:15px;" width="90%" valign="top">
+        ⭐ <strong>Freelancer (Self-Employed)</strong><br/>
+        <strong>Freelance Services</strong> | United States (Remote) | May '19 — Dec '21<br/><br/>
+        <em>
+        • Delivered creative services in graphic design, video editing, digital art (NFTs), and UX/UI.<br/>
+        • Managed content across YouTube, TikTok, Instagram, Facebook, and X.<br/>
+        • Provided SEO, branding, and marketing support.<br/>
+        • Handled bookkeeping, taxation, and basic accounting tasks for clients.
+        </em>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
 <h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
@@ -251,36 +308,40 @@ A demo version of an emergent platform module. Built to showcase flexible UI/UX 
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="center">🤝 Volunteer Experience</h2>
 
 <p align="center">
-  <a href="mailto:azkhan980@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/azeemahmedkhan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/azkhan980">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@yourchannel">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/yourhandle">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://www.tiktok.com/@yourhandle">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/yourhandle">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+  <table>
+    <tr>
+      <td style="border:1px solid #ccc; padding:15px;" width="45%" valign="top">
+        ⭐ <strong>Community Tech Workshop</strong><br/><br/>
+        <em>Conducted training sessions on digital literacy, coding basics, and safe internet practices for students and young professionals.</em><br/><br/>
+        <strong>Organization:</strong> Local Community Center, London
+      </td>
+      <td style="border:1px solid #ccc; padding:15px;" width="45%" valign="top">
+        ⭐ <strong>Non-Profit Marketing Support</strong><br/><br/>
+        <em>Designed social media campaigns, improved SEO visibility, and created promotional content to boost outreach for a non-profit initiative.</em><br/><br/>
+        <strong>Organization:</strong> Private NGO Project
+      </td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc; padding:15px;" width="45%" valign="top">
+        ⭐ <strong>Environmental Awareness Campaign</strong><br/><br/>
+        <em>Collaborated with volunteers to spread awareness on sustainability, climate change, and eco-friendly practices through events and digital media.</em><br/><br/>
+        <strong>Organization:</strong> Green Youth Movement
+      </td>
+      <td style="border:1px solid #ccc; padding:15px;" width="45%" valign="top">
+        ⭐ <strong>Student Mentorship</strong><br/><br/>
+        <em>Guided junior students in academic planning, digital skills, and career advice to help them achieve personal and professional growth.</em><br/><br/>
+        <strong>Organization:</strong> Education Support Program
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
+
+
 <h2 align="center">📺 My YouTube Videos</h2>
 
 <p align="center">
@@ -319,32 +380,60 @@ A demo version of an emergent platform module. Built to showcase flexible UI/UX 
 
 ---
 
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="mailto:azkhan980@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/+13485932552">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/azeemahmedkhan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/azkhan980">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/azeemahmedvlogs">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://x.com/azeemahmedvlogs">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/azeemahmed.k">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <h2 align="center">📝 Testimonials</h2>
 
 <p align="center">
   <table>
     <tr>
-      <td style="border:1px solid #ccc; padding:10px;" width="25%" valign="top">
-        **⭐ Pinned**<br/>
-        > "Azeem’s insights on data analytics helped our team make smarter business decisions quickly."<br/>
+      <td style="border:1px solid #ccc; padding:15px;" width="25%" valign="top">
+        ⭐ <strong>Pinned</strong><br/><br/>
+        <em>"Azeem’s insights on data analytics helped our team make smarter business decisions quickly."</em><br/><br/>
         <strong>John Doe</strong><br/>
         ABC Corporation
       </td>
-      <td style="border:1px solid #ccc; padding:10px;" width="25%" valign="top">
-        **⭐ Pinned**<br/>
-        > "His creative approach to digital marketing significantly boosted our engagement."<br/>
+      <td style="border:1px solid #ccc; padding:15px;" width="25%" valign="top">
+        ⭐ <strong>Pinned</strong><br/><br/>
+        <em>"His creative approach to digital marketing significantly boosted our engagement."</em><br/><br/>
         <strong>Jane Smith</strong><br/>
         Private Client
       </td>
-      <td style="border:1px solid #ccc; padding:10px;" width="25%" valign="top">
-        **⭐ Pinned**<br/>
-        > "Azeem’s dedication and professionalism are unmatched; he delivers results every time."<br/>
+      <td style="border:1px solid #ccc; padding:15px;" width="25%" valign="top">
+        ⭐ <strong>Pinned</strong><br/><br/>
+        <em>"Azeem’s dedication and professionalism are unmatched; he delivers results every time."</em><br/><br/>
         <strong>Michael Lee</strong><br/>
         XYZ Ltd.
       </td>
-      <td style="border:1px solid #ccc; padding:10px;" width="25%" valign="top">
-        **⭐ Pinned**<br/>
-        > "Working with Azeem was a pleasure; his insights into IT and analytics are top-notch."<br/>
+      <td style="border:1px solid #ccc; padding:15px;" width="25%" valign="top">
+        ⭐ <strong>Pinned</strong><br/><br/>
+        <em>"Working with Azeem was a pleasure; his insights into IT and analytics are top-notch."</em><br/><br/>
         <strong>Sarah Khan</strong><br/>
         Private Client
       </td>
@@ -355,3 +444,4 @@ A demo version of an emergent platform module. Built to showcase flexible UI/UX 
 ---
 
 ⭐ Always eager to combine creativity, technology, and data to deliver impactful results.
+
