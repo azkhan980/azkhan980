@@ -65,7 +65,7 @@
     <strong>Key Skills:</strong> Backend development, API design, database management (MySQL/MongoDB), payment integration, data analytics, Python.
   </p>
 
-  <p>
+  <p><a href="https://daretehzeeb.com/"><img src="https://img.shields.io/badge/Visit Website-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://daretehzeeb.com/" target="_blank" style="text-decoration:none; color:#ffffff; background-color:#FF5733; padding:8px 16px; border-radius:6px;">🔗 Visit Website</a>
   </p>
 
