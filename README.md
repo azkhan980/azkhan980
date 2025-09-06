@@ -386,7 +386,7 @@ A demo version of an emergent platform module. Built to showcase flexible UI/UX 
   <a href="mailto:azkhan980@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://wa.me/+13485932552">
+  <a href="https://wa.me/+13465932552">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/azeemahmedkhan/">
