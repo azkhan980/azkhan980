@@ -128,7 +128,7 @@
 
 ---
 
-<h2 align="center">🎨 NFT Gallery</h2>
+<h2 align="center">🎨 NFTs Gallery</h2>
 
 <p align="center">
   <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT01.jpg" width="200"/>
