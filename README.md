@@ -146,15 +146,26 @@
 
 <h2 align="center">📖 Magazine Designs</h2>
 
-<p align="center">
-  <a href="https://github.com/azkhan980/azkhan980/blob/main/TTT%20First%20Edition.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View-First%20Edition-blue?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  </a>
-  <br/>
-  <a href="https://github.com/azkhan980/azkhan980/blob/main/TTT%20Second%20Edition.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View-Second%20Edition-green?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  </a>
-</p>
+<div style="text-align:center;">
+  <table cellspacing="15" cellpadding="10" style="display: inline-block;">
+    <tr>
+      <td style="border: 2px solid #3498db; border-radius: 10px; padding: 20px; width: 220px; background-color: #f0f8ff; text-align: justify;">
+        <strong>First Edition</strong><br/><br/>
+        <p>Explore the first edition of our magazine with insights, stories, and visuals that showcase our journey.</p>
+        <a href="https://github.com/azkhan980/azkhan980/blob/main/TTT%20First%20Edition.pdf" target="_blank">
+          <img src="https://img.shields.io/badge/View-First%20Edition-blue?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+        </a>
+      </td>
+      <td style="border: 2px solid #2ecc71; border-radius: 10px; padding: 20px; width: 220px; background-color: #f0fff0; text-align: justify;">
+        <strong>Second Edition</strong><br/><br/>
+        <p>Check out the second edition, featuring updated content, engaging articles, and creative layouts.</p>
+        <a href="https://github.com/azkhan980/azkhan980/blob/main/TTT%20Second%20Edition.pdf" target="_blank">
+          <img src="https://img.shields.io/badge/View-Second%20Edition-green?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
