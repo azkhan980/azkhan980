@@ -8,22 +8,19 @@
 
 <!-- Quick Navigation -->
 <p align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#-projects--work">Projects</a> •
-  <a href="#-nft-gallery">NFTs</a> •
-  <a href="#-magazine-designs">Magazines</a> •
-  <a href="#-programming--coding-languages">Coding</a> •
-  <a href="#-skills-overview">Skills</a> •
-  <a href="#-education">Education</a> •
-  <a href="#-achievements">Achievements</a> •
-  <a href="#-github-stats">Stats</a> •
-  <a href="#-connect-with-me">Contact</a> •
-  <a href="#-download-cv">CV</a>
+  <a href="#-about-me"><img src="https://img.shields.io/badge/About-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#-projects--work"><img src="https://img.shields.io/badge/Projects-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#-nft-gallery"><img src="https://img.shields.io/badge/NFTs-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#-magazine-designs"><img src="https://img.shields.io/badge/Magazines-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#-programming--coding-languages"><img src="https://img.shields.io/badge/Coding-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#-skills-overview"><img src="https://img.shields.io/badge/Skills-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#-education"><img src="https://img.shields.io/badge/Education-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#-achievements"><img src="https://img.shields.io/badge/Achievements-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Contact-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
-
-## 📄 Download CV
 
 <p align="center">
   <a href="https://github.com/azkhan980/azkhan980/raw/main/Azeem_Khan_CV.pdf">
@@ -33,21 +30,28 @@
 
 ---
 
-## 🌟 About Me
+<h2 align="center">🌟 About Me</h2>
 
-<img align="right" src="https://github.com/azkhan980/azkhan980/blob/main/Profile%20Photo%20GIF.gif" alt="Profile Photo" width="220"/>
+<p align="center">
+  <img src="https://github.com/azkhan980/azkhan980/blob/main/Profile%20Photo%20GIF.gif" alt="Profile Photo" width="250"/>
+</p>
 
-I’m a results-driven professional with a strong background in **Data Science, Business Administration, IT, and Digital Marketing**.  
-I turn data into clear actions that help businesses grow, optimize campaigns, and improve customer experience.
+<p align="center">
+A results-driven professional with a Master’s in <b>Data Science</b> and a strong foundation in <b>Business Administration, IT, and Digital Marketing</b>.  
+I specialize in transforming data into actionable insights that support smarter business strategies, digital growth, and customer engagement.  
+</p>
 
-- 🎓 MSc in **Data Science**, University of East London  
-- 💼 Experience across **data analytics, IT support, marketing strategy, and content creation**  
-- 🚀 Founder & Head of Marketing at **Dar-e-Tehzeeb (درِ تہذیب)**  
-- 🌍 Open to remote collaboration worldwide  
+<p align="center">
+My experience spans corporate roles and freelance projects where I’ve applied <b>data analysis, SEO, content creation, and campaign optimization</b> using tools like <b>Python, SQL, Google Ads, and Adobe Creative Suite</b>.  
+</p>
+
+<p align="center">
+Combining analytical thinking with creative execution, I’m equipped to thrive in roles such as <b>Marketing Data Analyst, Business Intelligence Analyst, or Digital Strategy Specialist</b> — where data, technology, and business intersect to deliver meaningful outcomes.
+</p>
 
 ---
 
-## 📂 Projects & Work
+<h2 align="center">📂 Projects & Work</h2>
 
 ### 🔹 Dar-e-Tehzeeb  
 An e-commerce clothing brand I founded, focused on traditional South Asian wear. The website highlights curated unstitched fabric collections with a seamless shopping experience.  
@@ -81,7 +85,7 @@ A demo version of an emergent platform module. Built to showcase flexible UI/UX 
 
 ---
 
-## 🎨 NFT Gallery
+<h2 align="center">🎨 NFT Gallery</h2>
 
 <p align="center">
   <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT01.jpg" width="200"/>
@@ -97,7 +101,7 @@ A demo version of an emergent platform module. Built to showcase flexible UI/UX 
 
 ---
 
-## 📖 Magazine Designs
+<h2 align="center">📖 Magazine Designs</h2>
 
 <p align="center">
   <a href="https://github.com/azkhan980/azkhan980/blob/main/TTT%20First%20Edition.pdf" target="_blank">
@@ -111,7 +115,7 @@ A demo version of an emergent platform module. Built to showcase flexible UI/UX 
 
 ---
 
-## 💻 Programming & Coding Languages
+<h2 align="center">💻 Programming & Coding Languages</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -141,7 +145,7 @@ A demo version of an emergent platform module. Built to showcase flexible UI/UX 
 
 ---
 
-## 🛠️ Skills Overview
+<h2 align="center">🛠️ Skills Overview</h2>
 
 <p align="center">
   <table>
@@ -180,7 +184,7 @@ A demo version of an emergent platform module. Built to showcase flexible UI/UX 
 
 ---
 
-## 🎓 Education
+<h2 align="center">🎓 Education</h2>
 
 <p align="center">
   <table>
@@ -229,7 +233,7 @@ A demo version of an emergent platform module. Built to showcase flexible UI/UX 
 
 ---
 
-## 🏆 Achievements
+<h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
   <img src="https://github.com/azkhan980/azkhan980/blob/main/AchievementImage01.jpg" width="200"/>
@@ -247,7 +251,7 @@ A demo version of an emergent platform module. Built to showcase flexible UI/UX 
 
 ---
 
-## 🌐 Connect with Me
+<h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="mailto:azkhan980@gmail.com">
@@ -277,8 +281,7 @@ A demo version of an emergent platform module. Built to showcase flexible UI/UX 
 </p>
 
 ---
-
-## 📺 My YouTube Videos
+<h2 align="center">📺 My YouTube Videos</h2>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=p72SifJWzD0" target="_blank">
@@ -307,8 +310,7 @@ A demo version of an emergent platform module. Built to showcase flexible UI/UX 
 
 ---
 
-
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azkhan980&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
@@ -317,7 +319,7 @@ A demo version of an emergent platform module. Built to showcase flexible UI/UX 
 
 ---
 
-## 📝 Testimonials
+<h2 align="center">📝 Testimonials</h2>
 
 <p align="center">
   <table>
