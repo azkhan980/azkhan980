@@ -49,10 +49,35 @@ I turn data into clear actions that help businesses grow, optimize campaigns, an
 
 ## 📂 Projects & Work
 
-| Project | Description | Preview |
-|---------|-------------|---------|
-| **Business Environment & Leadership Analysis** | Applied PESTEL, SWOT, and Porter’s Five Forces on real companies (e.g., McDonald’s). | [View PDF](https://github.com/azkhan980/azkhan980/blob/main/Analysis%20of%20Business%20Environments%20and%20Leadership%20Styles.pdf) |
-| **Data Visualization Dashboards** | Designed dashboards in **Python**, **Tableau**, and **Power BI** for decision support and KPI tracking. | [View Example](https://github.com/azkhan980/azkhan980/blob/main/360_F_779927142_PZ9ZEE7DENGfdudCv19g33EMonBJ9kdO.jpg) |
+### 🔹 Dar-e-Tehzeeb  
+An e-commerce clothing brand I founded, focused on traditional South Asian wear. The website highlights curated unstitched fabric collections with a seamless shopping experience.  
+[🔗 Visit Website](https://daretehzeeb.com/)  
+
+[![Dar-e-Tehzeeb](https://github.com/azkhan980/azkhan980/blob/main/WP01.png)](https://daretehzeeb.com/)
+
+---
+
+### 🔹 Mansha Brothers  
+Corporate site for a leading distributor of office automation and energy solutions in Pakistan. The project involved creating a professional layout with product details, industries served, and customer support integration.  
+[🔗 Visit Website](https://www.manshabrothers.com/)  
+
+[![Mansha Brothers](https://github.com/azkhan980/azkhan980/blob/main/WP02.png)](https://www.manshabrothers.com/)
+
+---
+
+### 🔹 STStub Landing (Prototype)  
+A prototype landing page designed for a startup product. The focus was on delivering a clean interface, strong call-to-actions, and an optimized layout for user engagement.  
+[🔗 View Preview](https://ststub-landing.preview.emergentagent.com/)  
+
+[![STStub Landing](https://github.com/azkhan980/azkhan980/blob/main/WP03.png)](https://ststub-landing.preview.emergentagent.com/)
+
+---
+
+### 🔹 EmergentAgent Preview (Module)  
+A demo version of an emergent platform module. Built to showcase flexible UI/UX design, modular development, and smooth deployment for client review.  
+[🔗 View Preview](https://d1d02a26-d2a1-49ce-b3bc-fe7c11189dcc.preview.emergentagent.com/)  
+
+[![EmergentAgent Preview](https://github.com/azkhan980/azkhan980/blob/main/WP04.png)](https://d1d02a26-d2a1-49ce-b3bc-fe7c11189dcc.preview.emergentagent.com/)
 
 ---
 
