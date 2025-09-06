@@ -15,9 +15,13 @@
   <a href="#-programming--coding-languages"><img src="https://img.shields.io/badge/Coding-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="#-skills-overview"><img src="https://img.shields.io/badge/Skills-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="#-education"><img src="https://img.shields.io/badge/Education-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#-work-experience"><img src="https://img.shields.io/badge/Work-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="#-achievements"><img src="https://img.shields.io/badge/Achievements-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#-volunteer-experience"><img src="https://img.shields.io/badge/Volunteer-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#-my-youtube-videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Contact-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#-testimonials"><img src="https://img.shields.io/badge/Testimonials-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -205,32 +209,42 @@
   <table>
     <tr>
       <td align="center" width="45%">
-        <h3>📊 Data Science & Analytics</h3>
-        <p>Pandas · NumPy · Matplotlib · Scikit-learn · Tableau · Power BI</p>
+        <h3>💻 Software & Tools</h3>
+        <p>MS Office 365 · Filmora · Figma · Canva · Premiere Pro · Adobe Photoshop · Adobe Illustrator · Adobe InDesign</p>
       </td>
       <td align="center" width="45%">
-        <h3>💻 Web Development</h3>
-        <p>WordPress · HTML · CSS · Responsive Design</p>
+        <h3>🌐 Web Development</h3>
+        <p>HTML · CSS · WordPress · Electrical Layouts · Responsive Design · Intuitive Eating · Interface Design</p>
       </td>
     </tr>
     <tr>
       <td align="center" width="45%">
         <h3>📈 Digital Marketing</h3>
-        <p>Google Ads · Google Analytics · SEMrush · SEO · Meta Business Suite</p>
+        <p>Google Ads · Google Analytics · SEMrush · Meta Business Suite · Campaign Optimization · Campaign Budget Optimization</p>
       </td>
       <td align="center" width="45%">
-        <h3>🎨 Creative Design</h3>
-        <p>Photoshop · Illustrator · InDesign · Premiere Pro · Filmora · Canva · Figma</p>
+        <h3>🎨 Content Creation & Social Media</h3>
+        <p>YouTube · Instagram · TikTok · Facebook · X/Twitter · Focus on Engagement · Branding · Storytelling</p>
       </td>
     </tr>
     <tr>
       <td align="center" width="45%">
-        <h3>🤖 AI Tools</h3>
-        <p>ChatGPT · MidJourney · Stable Diffusion · Runway Gen-2 · Adobe Firefly · Jasper AI</p>
+        <h3>📊 Data Analysis & Visualization</h3>
+        <p>Python (Pandas, NumPy, Matplotlib) · SQL · Excel · Tableau · Power BI · Machine Learning · Scikit-learn</p>
       </td>
       <td align="center" width="45%">
+        <h3>🤖 AI Tools Expertise</h3>
+        <p>Nano Banana · Higgsfield · Veo3 · ChatGPT · MidJourney · Stable Diffusion · Runway Gen-2 · Adobe Firefly · Canva AI · Copy.ai · Jasper AI</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="45%">
         <h3>☁️ Cloud & Collaboration</h3>
-        <p>GitHub · GitHub Copilot · Git · GCP · AWS · Version Control</p>
+        <p>Google Cloud Platform (GCP) · GitHub · AWS · Git · GitHub Copilot · Version Control · Workflows</p>
+      </td>
+      <td align="center" width="45%">
+        <h3>🌐 Web3 & Additional Expertise</h3>
+        <p>NFTs · Marketing Strategy · B2B Marketing Strategy · Campaign Strategy Development · Cryptocurrency · Blockchain Network · Blockchain Database</p>
       </td>
     </tr>
   </table>
@@ -246,40 +260,32 @@
       <td align="center" width="45%">
         <h3>📘 MSc in Data Science</h3>
         <p><em>University of East London (2025 — Present)</em></p>
-        <ul align="left">
-          <li>Focus: Data Analytics, Machine Learning, Statistical Modeling</li>
-          <li>Projects with Python, R, Big Data & Visualization</li>
-          <li>Active in AI Society, Hackathons & Public Speaking</li>
-        </ul>
+        <p align="justify">
+          Focused on Data Analytics, Machine Learning, and Statistical Modeling. Engaged in projects using Python, R, Big Data, and Visualization tools. Actively involved in AI Society activities, hackathons, and public speaking events.
+        </p>
       </td>
       <td align="center" width="45%">
         <h3>📗 BSc in Business Administration</h3>
         <p><em>Qualifi Ltd & LIBS (2021 — 2023)</em></p>
-        <ul align="left">
-          <li>Distinction (GPA: 83/100)</li>
-          <li>Strategic Marketing, Business Law, Leadership</li>
-          <li>Case Studies, Business Simulations, Competitions</li>
-        </ul>
+        <p align="justify">
+          Graduated with Distinction (GPA: 83/100). Covered Strategic Marketing, Business Law, and Leadership. Completed multiple case studies, business simulations, and competitions to develop practical business skills.
+        </p>
       </td>
     </tr>
     <tr>
       <td align="center" width="45%">
         <h3>📙 Level 3 IFD (Business & Technology)</h3>
         <p><em>NCC Education, UK (2020 — 2021)</em></p>
-        <ul align="left">
-          <li>Distinction (GPA: 71/100)</li>
-          <li>Business Strategy, Reporting, Creative Communication</li>
-          <li>Workshops, Projects & Case Studies</li>
-        </ul>
+        <p align="justify">
+          Achieved Distinction (GPA: 71/100). Studied Business Strategy, Reporting, and Creative Communication. Participated in workshops, projects, and case studies to enhance practical knowledge and professional skills.
+        </p>
       </td>
       <td align="center" width="45%">
         <h3>📕 Diploma in Web Designing & Development</h3>
         <p><em>Habib University (iACT) (2016 — 2017)</em></p>
-        <ul align="left">
-          <li>HTML, CSS, Webpage Design, Responsive Interfaces</li>
-          <li>Practical Troubleshooting & Technical Development</li>
-          <li>Career Development & Communication Skills</li>
-        </ul>
+        <p align="justify">
+          Achieved Merit (GPA: 68/100). Studied HTML, CSS, Webpage Design, and Responsive Interfaces. Gained practical experience in troubleshooting, technical development, and improved professional communication skills.
+        </p>
       </td>
     </tr>
   </table>
@@ -290,53 +296,41 @@
 <h2 align="center">💼 Work Experience</h2>
 
 <p align="center">
-  <table>
+  <table align="center" width="90%" cellspacing="0" cellpadding="15" style="border-collapse: collapse;">
     <tr>
-      <td style="border:1px solid #ccc; padding:15px;" width="90%" valign="top">
+      <td style="border:1px solid #ccc;" valign="top" align="center">
         ⭐ <strong>Data and IT Support Specialist</strong><br/>
         <strong>Mansha Brothers</strong> | Karachi, Pakistan | Jan '24 — Aug '25<br/><br/>
-        <em>
-        • Developed and implemented IT support strategies to optimize system performance and data workflows.<br/>
-        • Conducted diagnostics, analyzed feedback, and improved IT services and processes.<br/>
-        • Supported marketing campaigns by analyzing data, managing content, and optimizing workflows.<br/>
-        • Coordinated software installations, updates, and system rollouts.
-        </em>
+        <p align="justify">
+          Developed and implemented IT support strategies to optimize system performance and data workflows. Conducted diagnostics, analyzed feedback, and improved IT services and processes. Supported marketing campaigns by analyzing data, managing content, and optimizing workflows. Coordinated software installations, updates, and system rollouts.
+        </p>
       </td>
     </tr>
     <tr>
-      <td style="border:1px solid #ccc; padding:15px;" width="90%" valign="top">
+      <td style="border:1px solid #ccc;" valign="top" align="center">
         ⭐ <strong>Data Management & Marketing Assistant</strong><br/>
         <strong>PhoenixiTek</strong> | United States (Remote) | Aug '22 — Aug '23<br/><br/>
-        <em>
-        • Supported digital marketing initiatives and managed key data operations remotely.<br/>
-        • Handled accurate data entry, maintained digital information, and assisted in web design tasks.<br/>
-        • Analyzed data to support decision-making and online marketing campaigns.<br/>
-        • Improved operational efficiency and enhanced brand presence.
-        </em>
+        <p align="justify">
+          Supported digital marketing initiatives and managed key data operations remotely. Handled accurate data entry, maintained digital information, and assisted in web design tasks. Analyzed data to support decision-making and online marketing campaigns. Improved operational efficiency and enhanced brand presence.
+        </p>
       </td>
     </tr>
     <tr>
-      <td style="border:1px solid #ccc; padding:15px;" width="90%" valign="top">
+      <td style="border:1px solid #ccc;" valign="top" align="center">
         ⭐ <strong>Junior Student Affairs Coordinator</strong><br/>
         <strong>Denning Law School</strong> | Karachi, Pakistan | Jul '21 — Dec '22<br/><br/>
-        <em>
-        • Managed administrative tasks to ensure smooth operations.<br/>
-        • Handled social media platforms to improve communication and engagement.<br/>
-        • Coordinated academic and extracurricular events to boost student experience.<br/>
-        • Developed strong organizational, communication, and leadership skills.
-        </em>
+        <p align="justify">
+          Managed administrative tasks to ensure smooth operations. Handled social media platforms to improve communication and engagement. Coordinated academic and extracurricular events to boost student experience. Developed strong organizational, communication, and leadership skills.
+        </p>
       </td>
     </tr>
     <tr>
-      <td style="border:1px solid #ccc; padding:15px;" width="90%" valign="top">
+      <td style="border:1px solid #ccc;" valign="top" align="center">
         ⭐ <strong>Freelancer (Self-Employed)</strong><br/>
         <strong>Freelance Services</strong> | United States (Remote) | May '19 — Dec '21<br/><br/>
-        <em>
-        • Delivered creative services in graphic design, video editing, digital art (NFTs), and UX/UI.<br/>
-        • Managed content across YouTube, TikTok, Instagram, Facebook, and X.<br/>
-        • Provided SEO, branding, and marketing support.<br/>
-        • Handled bookkeeping, taxation, and basic accounting tasks for clients.
-        </em>
+        <p align="justify">
+          Delivered creative services in graphic design, video editing, digital art (NFTs), and UX/UI. Managed content across YouTube, TikTok, Instagram, Facebook, and X. Provided SEO, branding, and marketing support. Handled bookkeeping, taxation, and basic accounting tasks for clients.
+        </p>
       </td>
     </tr>
   </table>
