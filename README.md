@@ -36,52 +36,95 @@
   <img src="https://github.com/azkhan980/azkhan980/blob/main/Profile%20Photo%20GIF.gif" alt="Profile Photo" width="250"/>
 </p>
 
-<p align="center">
-A results-driven professional with a Master’s in <b>Data Science</b> and a strong foundation in <b>Business Administration, IT, and Digital Marketing</b>.  
-I specialize in transforming data into actionable insights that support smarter business strategies, digital growth, and customer engagement.  
-</p>
+<div style="max-width: 800px; margin: 0 auto; text-align: justify; line-height: 1.6; padding: 10px;">
+  I’m a results-driven Data Science professional with a strong foundation in Business Administration, IT, and Digital Marketing. I turn data into actionable insights that drive smarter business strategies, digital growth, and customer engagement. With experience across corporate roles and freelance projects, I’ve applied data analysis, SEO, content creation, and campaign optimization using tools like Python, SQL, Google Ads, and Adobe Creative Suite. I combine analytical thinking with creative execution to deliver impactful solutions at the intersection of data, technology, and business.
+</div>
 
-<p align="center">
-My experience spans corporate roles and freelance projects where I’ve applied <b>data analysis, SEO, content creation, and campaign optimization</b> using tools like <b>Python, SQL, Google Ads, and Adobe Creative Suite</b>.  
-</p>
 
-<p align="center">
-Combining analytical thinking with creative execution, I’m equipped to thrive in roles such as <b>Marketing Data Analyst, Business Intelligence Analyst, or Digital Strategy Specialist</b> — where data, technology, and business intersect to deliver meaningful outcomes.
-</p>
 
 ---
 
 <h2 align="center">📂 Projects & Work</h2>
 
-### 🔹 Dar-e-Tehzeeb  
-An e-commerce clothing brand I founded, focused on traditional South Asian wear. The website highlights curated unstitched fabric collections with a seamless shopping experience.  
-[🔗 Visit Website](https://daretehzeeb.com/)  
+<div style="max-width: 900px; margin: 0 auto; text-align: justify; line-height: 1.6; padding: 20px;">
 
-[![Dar-e-Tehzeeb](https://github.com/azkhan980/azkhan980/blob/main/WP01.png)](https://daretehzeeb.com/)
+  <h3>🔹 E-commerce Platform (Backend & Data Analytics Project), Dar-e-Tehzeeb</h3>
+  
+  <p>
+    Developed and maintained the backend of <strong>daretehzeeb.com</strong>, an online clothing brand store. 
+    Implemented product and order management, integrated secure payment gateways, and optimized the database for efficient handling of customer data. 
+    Applied data science skills to track sales performance, customer behavior, and inventory trends, generating insights to improve marketing strategies and operational decisions.
+  </p>
+
+  <p>
+    <strong>Key Skills:</strong> Backend development, API design, database management (MySQL/MongoDB), payment integration, data analytics, Python.
+  </p>
+
+  <p>
+    <a href="https://daretehzeeb.com/" target="_blank" style="text-decoration:none; color:#ffffff; background-color:#FF5733; padding:8px 16px; border-radius:6px;">🔗 Visit Website</a>
+  </p>
+
+  <p style="text-align:center;">
+    <a href="https://daretehzeeb.com/" target="_blank">
+      <img src="https://github.com/azkhan980/azkhan980/blob/main/WP01.png" alt="Dar-e-Tehzeeb" style="max-width:100%; border-radius:10px; box-shadow:0px 4px 12px rgba(0,0,0,0.1);"/>
+    </a>
+  </p>
+
+</div>
 
 ---
 
-### 🔹 Mansha Brothers  
-Corporate site for a leading distributor of office automation and energy solutions in Pakistan. The project involved creating a professional layout with product details, industries served, and customer support integration.  
-[🔗 Visit Website](https://www.manshabrothers.com/)  
+<div style="max-width: 900px; margin: 0 auto; text-align: justify; line-height: 1.6; padding: 20px;">
 
-[![Mansha Brothers](https://github.com/azkhan980/azkhan980/blob/main/WP02.png)](https://www.manshabrothers.com/)
+  <h3>🔹 Backend Systems & Data Analytics (Student Project), Mansha Brothers</h3>
+  
+  <p>
+    Worked on designing and optimizing backend systems, including REST APIs and database management, to efficiently support product and service workflows. 
+    Applied data analytics to monitor sales performance, customer interactions, and operational efficiency, providing actionable insights for business decisions.
+  </p>
+
+  <p>
+    <strong>Key Skills:</strong> Python (Django/Flask), Node.js, REST APIs, MySQL, PostgreSQL, MongoDB, Pandas, NumPy, Data Visualization (Matplotlib/Power BI), Git/GitHub, Docker, AWS/Heroku.
+  </p>
+
+  <p>
+    <a href="https://www.manshabrothers.com/" target="_blank" style="text-decoration:none; color:#ffffff; background-color:#0077B5; padding:8px 16px; border-radius:6px;">🔗 Visit Website</a>
+  </p>
+
+  <p style="text-align:center;">
+    <a href="https://www.manshabrothers.com/" target="_blank">
+      <img src="https://github.com/azkhan980/azkhan980/blob/main/WP02.png" alt="Mansha Brothers" style="max-width:100%; border-radius:10px; box-shadow:0px 4px 12px rgba(0,0,0,0.1);"/>
+    </a>
+  </p>
+
+</div>
 
 ---
 
-### 🔹 STStub Landing (Prototype)  
-A prototype landing page designed for a startup product. The focus was on delivering a clean interface, strong call-to-actions, and an optimized layout for user engagement.  
-[🔗 View Preview](https://ststub-landing.preview.emergentagent.com/)  
+<div style="max-width: 900px; margin: 0 auto; text-align: justify; line-height: 1.6; padding: 20px;">
 
-[![STStub Landing](https://github.com/azkhan980/azkhan980/blob/main/WP03.png)](https://ststub-landing.preview.emergentagent.com/)
+  <h3>🔹 Startup Landing Page Prototype – Frontend Development</h3>
+  
+  <p>
+    Developed a prototype landing page for a startup product, focusing on a clean and modern interface, strong call-to-actions, and an optimized layout to maximize user engagement. 
+    Implemented responsive design to ensure seamless performance across desktop and mobile devices, and incorporated interactive elements to enhance user experience.
+  </p>
 
----
+  <p>
+    <strong>Key Skills:</strong> HTML, CSS, JavaScript, Responsive Web Design, UI/UX Design, Frontend Prototyping, Interactive Elements, Figma/Design Tools.
+  </p>
 
-### 🔹 EmergentAgent Preview (Module)  
-A demo version of an emergent platform module. Built to showcase flexible UI/UX design, modular development, and smooth deployment for client review.  
-[🔗 View Preview](https://d1d02a26-d2a1-49ce-b3bc-fe7c11189dcc.preview.emergentagent.com/)  
+  <p>
+    <a href="https://ststub-landing.preview.emergentagent.com/" target="_blank" style="text-decoration:none; color:#ffffff; background-color:#0077B5; padding:8px 16px; border-radius:6px;">🔗 View Preview</a>
+  </p>
 
-[![EmergentAgent Preview](https://github.com/azkhan980/azkhan980/blob/main/WP04.png)](https://d1d02a26-d2a1-49ce-b3bc-fe7c11189dcc.preview.emergentagent.com/)
+  <p style="text-align:center;">
+    <a href="https://ststub-landing.preview.emergentagent.com/" target="_blank">
+      <img src="https://github.com/azkhan980/azkhan980/blob/main/WP03.png" alt="STStub Landing Page" style="max-width:100%; border-radius:10px; box-shadow:0px 4px 12px rgba(0,0,0,0.1);"/>
+    </a>
+  </p>
+
+</div>
 
 ---
 
