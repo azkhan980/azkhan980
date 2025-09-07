@@ -132,8 +132,8 @@
   <table align="center" width="90%" cellspacing="0" cellpadding="15" style="border-collapse: collapse;">
     <tr>
       <td style="border:1px solid #ccc;" valign="top" align="center">
-        ⭐ <strong>Data and IT Support Specialist</strong><br/>
-        <strong>Mansha Brothers</strong> | Karachi, Pakistan | Jan '24 — Aug '25<br/><br/>
+       <strong>Data and IT Support Specialist</strong><br/>
+        Mansha Brothers | Karachi, Pakistan | Jan '2024 to Aug '2025 <br/><br/>
         <p align="justify">
           Developed and implemented IT support strategies to optimize system performance and data workflows. Conducted diagnostics, analyzed feedback, and improved IT services and processes. Supported marketing campaigns by analyzing data, managing content, and optimizing workflows. Coordinated software installations, updates, and system rollouts.
         </p>
@@ -141,8 +141,8 @@
     </tr>
     <tr>
       <td style="border:1px solid #ccc;" valign="top" align="center">
-        ⭐ <strong>Data Management & Marketing Assistant</strong><br/>
-        <strong>PhoenixiTek</strong> | United States (Remote) | Aug '22 — Aug '23<br/><br/>
+       <strong>Data Management & Marketing Assistant</strong><br/>
+        PhoenixiTek | United States (Remote) | Aug '2022 to Aug '2023 <br/><br/>
         <p align="justify">
           Supported digital marketing initiatives and managed key data operations remotely. Handled accurate data entry, maintained digital information, and assisted in web design tasks. Analyzed data to support decision-making and online marketing campaigns. Improved operational efficiency and enhanced brand presence.
         </p>
@@ -150,8 +150,8 @@
     </tr>
     <tr>
       <td style="border:1px solid #ccc;" valign="top" align="center">
-        ⭐ <strong>Junior Student Affairs Coordinator</strong><br/>
-        <strong>Denning Law School</strong> | Karachi, Pakistan | Jul '21 — Dec '22<br/><br/>
+       <strong>Junior Student Affairs Coordinator</strong><br/>
+        Denning Law School | Karachi, Pakistan | Jul '2021 to Dec '2022 <br/><br/>
         <p align="justify">
           Managed administrative tasks to ensure smooth operations. Handled social media platforms to improve communication and engagement. Coordinated academic and extracurricular events to boost student experience. Developed strong organizational, communication, and leadership skills.
         </p>
@@ -159,8 +159,8 @@
     </tr>
     <tr>
       <td style="border:1px solid #ccc;" valign="top" align="center">
-        ⭐ <strong>Freelancer (Self-Employed)</strong><br/>
-        <strong>Freelance Services</strong> | United States (Remote) | May '19 — Dec '21<br/><br/>
+       <strong>Freelancer (Self-Employed)</strong><br/>
+        Freelance Services | United States (Remote) | May '2019 to Dec '2021 <br/><br/>
         <p align="justify">
           Delivered creative services in graphic design, video editing, digital art (NFTs), and UX/UI. Managed content across YouTube, TikTok, Instagram, Facebook, and X. Provided SEO, branding, and marketing support. Handled bookkeeping, taxation, and basic accounting tasks for clients.
         </p>
@@ -220,6 +220,79 @@
         <p><em>Habib University (iACT) (2016 — 2017)</em></p>
         <p align="justify">
           Achieved Merit (GPA: 68/100). Studied HTML, CSS, Webpage Design, and Responsive Interfaces. Gained practical experience in troubleshooting, technical development, and improved professional communication skills.
+        </p>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+<h2 align="center">📜 Licenses & Certifications</h2>
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="45%">
+        <h3>📊 Data Analytics</h3>
+        <p><em>Deloitte Australia - Forage (Sep '2025)</em></p>
+        <p align="justify">
+          Completed a practical program on data analytics covering business problem-solving, data interpretation, and visualization techniques using modern analytics tools.
+        </p>
+      </td>
+      <td align="center" width="45%">
+        <h3>💼 Accounting Software Professional with ERP Implementation</h3>
+        <p><em>NED University (Feb '2025)</em></p>
+        <p align="justify">
+          Gained hands-on knowledge in ERP implementation and accounting systems, focusing on financial data management, reporting, and business process optimization.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="45%">
+        <h3>⛓️ Blockchain and P2P Fundamentals</h3>
+        <p><em>European Business Institute of Luxembourg (Jun '2024)</em></p>
+        <p align="justify">
+          Studied the foundations of blockchain technology, decentralized networks, and peer-to-peer transactions, with insights into emerging fintech applications.
+        </p>
+      </td>
+      <td align="center" width="45%">
+        <h3>🌐 Foundations of Digital Marketing & E-Commerce</h3>
+        <p><em>Google (Jul '2024)</em></p>
+        <p align="justify">
+          Learned the basics of online marketing, including SEO, social media, and e-commerce strategies to optimize brand presence and digital customer engagement.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="45%">
+        <h3>🤖 Artificial Intelligence and Ethical Hacking</h3>
+        <p><em>PFTP (Sep '2023)</em></p>
+        <p align="justify">
+          Covered AI applications, machine learning concepts, and ethical hacking practices to strengthen system security and develop innovative digital solutions.
+        </p>
+      </td>
+      <td align="center" width="45%">
+        <h3>🎥 Creator Creator</h3>
+        <p><em>Instagram (Dec '2022)</em></p>
+        <p align="justify">
+          Recognized as a digital content creator for producing engaging social media content, building audience interaction, and leveraging platform insights.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="45%">
+        <h3>🖌️ Video Editing & Graphic Designing</h3>
+        <p><em>PFTP (Dec '2021)</em></p>
+        <p align="justify">
+          Trained in advanced video editing and graphic design techniques, focusing on creative storytelling, branding, and professional digital content production.
+        </p>
+      </td>
+      <td align="center" width="45%">
+        <h3>💻 Certificate in Information Technology</h3>
+        <p><em>Institute of Advancing Career and Talents (iACT) (Jun '2017)</em></p>
+        <p align="justify">
+          Acquired foundational IT knowledge including computer systems, networking, software applications, and technical troubleshooting.
         </p>
       </td>
     </tr>
@@ -309,6 +382,15 @@
 
 <h2 align="center">🏆 Achievements</h2>
 
+<div align="center">
+  <h3>🥇 1st Place in the Ad-Wars Competition</h3>
+  <p><em>Denning International Foundation | Oct '2021</em></p>
+  <div style="width:80%; text-align:justify;">
+    Won 1st Place in the Ad-Wars Competition at Denning International Foundation for creating a compelling solo marketing campaign. 
+    Showcased creativity, strategic thinking, and strong presentation skills.
+  </div>
+</div>
+<br>
 <p align="center">
   <img src="https://github.com/azkhan980/azkhan980/blob/main/AchievementImage01.jpg" width="200"/>
   <img src="https://github.com/azkhan980/azkhan980/blob/main/AchievementImage2.jpg" width="200"/>
@@ -319,12 +401,7 @@
   </a>
 </p>
 
-- 🥇 **1st Place — Ad-Wars Competition** (Denning International Foundation, 2021)  
-- 🎤 Participation in **Hackathons**, **Public Speaking**, **ITCN Asia Expo 2023**  
-- 📜 Certifications: Google Digital Marketing & E-Commerce, AI & Ethical Hacking (PFTP), Blockchain & P2P (EBI Luxembourg), ERP Implementation (NED)
-
 ---
-
 
 <h2 align="center">📖 Magazine Designs</h2>
 
