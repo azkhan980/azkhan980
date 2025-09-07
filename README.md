@@ -27,7 +27,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/azkhan980/azkhan980/raw/main/Azeem_Khan_CV.pdf">
+  <a href="https://github.com/azkhan980/azkhan980/blob/main/resume_azeem_khan.pdf">
     <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV">
   </a>
 </p>
