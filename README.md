@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/azkhan980/azkhan980/blob/main/AK%20Banner.jpg" alt="Banner Image" width="100%"/>
+  <img src="https://github.com/azkhan980/azkhan980/blob/main/HEADER%20GIF.gif" alt="Banner Image" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Azeem Khan 👋</h1>
@@ -25,9 +25,6 @@
   <a href="#-testimonials"><img src="https://img.shields.io/badge/Testimonials-1E90FF?style=for-the-badge&logo" /></a>
 </p>
 
-
----
-
 <p align="center">
   <a href="https://github.com/azkhan980/azkhan980/blob/main/resume_azeem_khan.pdf">
     <img src="https://img.shields.io/badge/Download%20CV-PDF-df2500?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV">
@@ -36,7 +33,9 @@
 
 ---
 
-<h2 align="center">🌟 About Me</h2>
+<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
+  🌟 ABOUT ME
+</h2>
 
 <p align="center">
   <img src="https://github.com/azkhan980/azkhan980/blob/main/Profile%20Photo%20GIF.gif" alt="Profile Photo" width="250"/>
@@ -48,10 +47,11 @@
     </p>
 </div>
 
-
 ---
 
-<h2 align="center">📂 Projects </h2>
+<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
+  🧑‍💻 PROJECTS
+</h2>
 
 <div style="max-width: 900px; margin: 0 auto; text-align: justify; line-height: 1.6; padding: 20px;">
 
@@ -151,7 +151,9 @@
 
 ---
 
-<h2 align="center">💼 Work Experience</h2>
+<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
+  💼 WORK EXPERIENCE
+</h2>
 
 <p align="center">
   <table align="center" width="90%" cellspacing="0" cellpadding="15" style="border-collapse: collapse;">
@@ -195,8 +197,9 @@
 </p>
 
 ---
-
-<h2 align="center">🎨 NFTs Gallery</h2>
+<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
+  🎨 NFTs GALLERY
+</h2>
 
 <p align="center">
   <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT01.jpg" width="200"/>
@@ -212,7 +215,9 @@
 
 ---
 
-<h2 align="center">🎓 Education</h2>
+<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
+  🎓 EDUCATION
+</h2>
 
 <p align="center">
   <table>
@@ -253,7 +258,9 @@
 
 ---
 
-<h2 align="center">📜 Licenses & Certifications</h2>
+<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
+  📜 LICENSES & CERTIFICATIONS
+</h2>
 
 <p align="center">
   <table>
@@ -325,8 +332,9 @@
 </p>
 
 ---
-
-<h2 align="center">💻 Programming & Coding Languages</h2>
+<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
+  💻 PROGRAMMING & CODING LANGUAGES
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -356,7 +364,9 @@
 
 ---
 
-<h2 align="center">🛠️ Skills Overview</h2>
+<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
+  🛠️ SKILLS OVERVIEW
+</h2>
 
 <p align="center">
   <table>
@@ -405,7 +415,9 @@
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
+<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
+  🏆 ACHIEVEMENTS
+</h2>
 
 <div align="center">
   <h3>🥇 1st Place in the Ad-Wars Competition</h3>
@@ -428,7 +440,9 @@
 
 ---
 
-<h2 align="center">📖 Magazine Designs</h2>
+<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
+  📖 MAGAZINE DESIGNS
+</h2>
 
 <div style="text-align:center;">
   <table cellspacing="15" cellpadding="10" style="display: inline-block;">
@@ -453,7 +467,9 @@
 
 ---
 
-<h2 align="center">🤝 Volunteer Experience</h2>
+<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
+  🤝 VOLUNTEER EXPERIENCE
+</h2>
 
 <p align="center">
   <table>
@@ -485,9 +501,9 @@
 </p>
 
 ---
-
-
-<h2 align="center">📺 My YouTube Videos</h2>
+<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
+  📺 MY YOUTUBE VIDEOS
+</h2>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=p72SifJWzD0" target="_blank">
@@ -516,17 +532,20 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
+  📊 GITHUB STATS
+</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azkhan980&show_icons=true&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=1E90FF" height="160" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=azkhan980&theme=default&background=FFFFFF&ring=1E90FF&fire=1E90FF&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000" height="160" alt="GitHub Streak"/>
 </p>
 
-
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
+  🌐 CONNECT WITH ME
+</h2>
 
 <p align="center">
   <a href="mailto:azkhan980@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
@@ -535,9 +554,11 @@
   <a href="https://github.com/azkhan980"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;
 </p>
 
-
 ---
-<h2 align="center">📝 Testimonials</h2>
+
+<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
+  📝 TESTIMONIALS
+</h2>
 
 <p align="center">
   <table>
