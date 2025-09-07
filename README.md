@@ -26,12 +26,11 @@
 </p>
 
 
-
 ---
 
 <p align="center">
   <a href="https://github.com/azkhan980/azkhan980/blob/main/resume_azeem_khan.pdf">
-    <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV">
+    <img src="https://img.shields.io/badge/Download%20CV-PDF-df2500?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV">
   </a>
 </p>
 
@@ -56,7 +55,7 @@
 
 <div style="max-width: 900px; margin: 0 auto; text-align: justify; line-height: 1.6; padding: 20px;">
 
-  <h3>🔹 E-commerce Platform (Backend & Data Analytics Project), Dar-e-Tehzeeb</h3>
+  <h3>🔹 E-commerce Platform (Backend & Data Analytics Project) </h3>
   
   <p align="justify">
     Developed and maintained the backend of <strong>daretehzeeb.com</strong>, an online clothing brand store. 
@@ -73,11 +72,11 @@
   <img src="https://img.shields.io/badge/Python-yellow" alt="Python"/>
 </p>
 
-  <p><a href="https://daretehzeeb.com/"><img src="https://img.shields.io/badge/Visit Website-FF5733?style=for-the-badge&logo=github&logoColor=#ffffff" /></a></p>
+  <p><a href="https://daretehzeeb.com/"><img src="https://img.shields.io/badge/Visit Website-ff0000?style=for-the-badge&logo" /></a></p>
 
   <p style="text-align:center;">
     <a href="https://daretehzeeb.com/" target="_blank">
-      <img src="https://github.com/azkhan980/azkhan980/blob/main/WP01.png" alt="Dar-e-Tehzeeb" style="max-width:100%; border-radius:10px; box-shadow:0px 4px 12px rgba(0,0,0,0.1);"/>
+      <img src="https://github.com/azkhan980/azkhan980/blob/main/WP01.png" alt="Dar-e-Tehzeeb" style="max-width:100%; border-radius:10px; box-shadow:0px 4px 12px rgba(0,0,0,0.1); "/>
     </a>
   </p>
 
@@ -87,7 +86,7 @@
 
 <div style="max-width: 900px; margin: 0 auto; text-align: justify; line-height: 1.6; padding: 20px;">
 
-  <h3>🔹 Backend Systems & Data Analytics (Student Project), Mansha Brothers</h3>
+  <h3>🔹 Backend Systems & Data Analytics (Student Project) </h3>
   
   <p align="justify">
     Worked on designing and optimizing backend systems, including REST APIs and database management, to efficiently support product and service workflows. 
@@ -109,7 +108,7 @@
   <img src="https://img.shields.io/badge/AWS%2FHeroku-red" alt="AWS/Heroku"/>
 </p>
 
-  <p><a href="https://www.manshabrothers.com/"><img src="https://img.shields.io/badge/Visit Website-FF5733?style=for-the-badge&logo=github&logoColor=#ffffff" /></a></p>
+  <p><a href="https://www.manshabrothers.com/"><img src="https://img.shields.io/badge/Visit Website-ff0000?style=for-the-badge&logo" /></a></p>
 
   <p style="text-align:center;">
     <a href="https://www.manshabrothers.com/" target="_blank">
@@ -123,7 +122,7 @@
 
 <div style="max-width: 900px; margin: 0 auto; text-align: justify; line-height: 1.6; padding: 20px;">
 
-  <h3>🔹 Startup Landing Page Prototype – Frontend Development</h3>
+  <h3>🔹 Startup Landing Page Prototype </h3>
   
   <p align="justify">
     Developed a prototype landing page for a startup product, focusing on a clean and modern interface, strong call-to-actions, and an optimized layout to maximize user engagement. Implemented responsive design to ensure seamless performance across desktop and mobile devices, and incorporated interactive elements to enhance user experience.
@@ -140,7 +139,7 @@
   <img src="https://img.shields.io/badge/Figma%2FDesign-Tools-black" alt="Figma/Design Tools"/>
 </p>
 
-  <p><a href="https://ststub-landing.preview.emergentagent.com/"><img src="https://img.shields.io/badge/Visit Website-FF5733?style=for-the-badge&logo=github&logoColor=#ffffff" /></a></p>
+  <p><a href="https://ststub-landing.preview.emergentagent.com/"><img src="https://img.shields.io/badge/Visit Website-ff0000?style=for-the-badge&logo" /></a></p>
 
   <p style="text-align:center;">
     <a href="https://ststub-landing.preview.emergentagent.com/" target="_blank">
@@ -520,9 +519,10 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azkhan980&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azkhan980&theme=tokyonight" height="160" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=azkhan980&show_icons=true&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=1E90FF" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azkhan980&theme=default&background=FFFFFF&ring=1E90FF&fire=1E90FF&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000" height="160" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
@@ -565,10 +565,7 @@
     </tr>
   </table>
 </p>
-
-
-
-⭐ Always eager to combine creativity, technology, and data to deliver impactful results.
+---
 
 
 
