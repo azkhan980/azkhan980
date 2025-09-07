@@ -8,21 +8,24 @@
 
 <!-- Quick Navigation -->
 <p align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/About-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#-projects--work"><img src="https://img.shields.io/badge/Projects-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#-nft-gallery"><img src="https://img.shields.io/badge/NFTs-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#-magazine-designs"><img src="https://img.shields.io/badge/Magazines-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#-programming--coding-languages"><img src="https://img.shields.io/badge/Coding-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#-skills-overview"><img src="https://img.shields.io/badge/Skills-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#-education"><img src="https://img.shields.io/badge/Education-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#-work-experience"><img src="https://img.shields.io/badge/Work-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#-achievements"><img src="https://img.shields.io/badge/Achievements-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#-volunteer-experience"><img src="https://img.shields.io/badge/Volunteer-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#-my-youtube-videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Contact-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#-testimonials"><img src="https://img.shields.io/badge/Testimonials-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#-about"><img src="https://img.shields.io/badge/About-1E90FF?style=for-the-badge&logo" /></a>
+  <a href="#-projects"><img src="https://img.shields.io/badge/Projects-1E90FF?style=for-the-badge&logo" /></a>
+  <a href="#-work-experience"><img src="https://img.shields.io/badge/Work-1E90FF?style=for-the-badge&logo" /></a>
+  <a href="#-nft-gallery"><img src="https://img.shields.io/badge/NFTs-1E90FF?style=for-the-badge&logo" /></a>
+  <a href="#-education"><img src="https://img.shields.io/badge/Education-1E90FF?style=for-the-badge&logo" /></a>
+  <a href="#-licenses--certifications"><img src="https://img.shields.io/badge/Certifications-1E90FF?style=for-the-badge&logo" /></a>
+  <a href="#-programming--coding-languages"><img src="https://img.shields.io/badge/Coding-1E90FF?style=for-the-badge&logo" /></a>
+  <a href="#-skills-overview"><img src="https://img.shields.io/badge/Skills-1E90FF?style=for-the-badge&logo" /></a>
+  <a href="#-achievements"><img src="https://img.shields.io/badge/Achievements-1E90FF?style=for-the-badge&logo" /></a>
+  <a href="#-magazine-designs"><img src="https://img.shields.io/badge/Magazines-1E90FF?style=for-the-badge&logo" /></a>
+  <a href="#-volunteer-experience"><img src="https://img.shields.io/badge/Volunteer-1E90FF?style=for-the-badge&logo" /></a>
+  <a href="#-my-youtube-videos"><img src="https://img.shields.io/badge/YouTube-1E90FF?style=for-the-badge&logo" /></a>
+  <a href="#-github-stats"><img src="https://img.shields.io/badge/GitHub_Stats-1E90FF?style=for-the-badge&logo" /></a>
+  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Connect-1E90FF?style=for-the-badge&logo" /></a>
+  <a href="#-testimonials"><img src="https://img.shields.io/badge/Testimonials-1E90FF?style=for-the-badge&logo" /></a>
 </p>
+
+
 
 ---
 
@@ -61,9 +64,14 @@
     Applied data science skills to track sales performance, customer behavior, and inventory trends, generating insights to improve marketing strategies and operational decisions.
   </p>
 
-  <p align="justify">
-    <strong>Key Skills:</strong> Backend development, API design, database management (MySQL/MongoDB), payment integration, data analytics, Python.
-  </p>
+  <p>
+  <img src="https://img.shields.io/badge/Backend-Development-darkgreen" alt="Backend Development"/>
+  <img src="https://img.shields.io/badge/API-Design-purple" alt="API Design"/>
+  <img src="https://img.shields.io/badge/Database-MySQL%2FMongoDB-orange" alt="Database Management"/>
+  <img src="https://img.shields.io/badge/Payment-Integration-teal" alt="Payment Integration"/>
+  <img src="https://img.shields.io/badge/Data-Analytics-darkblue" alt="Data Analytics"/>
+  <img src="https://img.shields.io/badge/Python-yellow" alt="Python"/>
+</p>
 
   <p><a href="https://daretehzeeb.com/"><img src="https://img.shields.io/badge/Visit Website-FF5733?style=for-the-badge&logo=github&logoColor=#ffffff" /></a></p>
 
@@ -86,9 +94,20 @@
     Applied data analytics to monitor sales performance, customer interactions, and operational efficiency, providing actionable insights for business decisions.
   </p>
 
-  <p align="justify">
-    <strong>Key Skills:</strong> Python (Django/Flask), Node.js, REST APIs, MySQL, PostgreSQL, MongoDB, Pandas, NumPy, Data Visualization (Matplotlib/Power BI), Git/GitHub, Docker, AWS/Heroku.
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/Python-Django%2FFlask-blue" alt="Python (Django/Flask)"/>
+  <img src="https://img.shields.io/badge/Node.js-green" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/REST-APIs-orange" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/MySQL-blueviolet" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-lightblue" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Pandas-grey" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-teal" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-Matplotlib%2FPowerBI-brown" alt="Data Visualization"/>
+  <img src="https://img.shields.io/badge/Git%2FGitHub-black" alt="Git/GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-darkblue" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS%2FHeroku-red" alt="AWS/Heroku"/>
+</p>
 
   <p><a href="https://www.manshabrothers.com/"><img src="https://img.shields.io/badge/Visit Website-FF5733?style=for-the-badge&logo=github&logoColor=#ffffff" /></a></p>
 
@@ -110,9 +129,16 @@
     Developed a prototype landing page for a startup product, focusing on a clean and modern interface, strong call-to-actions, and an optimized layout to maximize user engagement. Implemented responsive design to ensure seamless performance across desktop and mobile devices, and incorporated interactive elements to enhance user experience.
   </p>
 
-  <p align="justify">
-    <strong>Key Skills:</strong> HTML, CSS, JavaScript, Responsive Web Design, UI/UX Design, Frontend Prototyping, Interactive Elements, Figma/Design Tools.
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/HTML-orange" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-blue" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Responsive-Web%20Design-lightgreen" alt="Responsive Web Design"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-pink" alt="UI/UX Design"/>
+  <img src="https://img.shields.io/badge/Frontend-Prototyping-purple" alt="Frontend Prototyping"/>
+  <img src="https://img.shields.io/badge/Interactive-Elements-brown" alt="Interactive Elements"/>
+  <img src="https://img.shields.io/badge/Figma%2FDesign-Tools-black" alt="Figma/Design Tools"/>
+</p>
 
   <p><a href="https://ststub-landing.preview.emergentagent.com/"><img src="https://img.shields.io/badge/Visit Website-FF5733?style=for-the-badge&logo=github&logoColor=#ffffff" /></a></p>
 
@@ -543,4 +569,6 @@
 
 
 ⭐ Always eager to combine creativity, technology, and data to deliver impactful results.
+
+
 
