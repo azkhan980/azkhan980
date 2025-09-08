@@ -232,7 +232,7 @@
     <tr>
       <td align="center" width="45%">
         <h3>📘 MSc in Data Science</h3>
-        <p><em>University of East London | London, England UK | (2025 - Present)</em></p>
+        <p><em>University of East London | London, England | (2025 - Present)</em></p>
         <p align="justify">
           Focused on Data Analytics, Machine Learning, and Statistical Modeling. Engaged in projects using Python, R, Big Data, and Visualization tools. Actively involved in AI Society activities, hackathons, and public speaking events.
         </p>
