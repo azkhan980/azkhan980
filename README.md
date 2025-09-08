@@ -1,3 +1,11 @@
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1705510023731268"
+     data-ad-slot="9876543210"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+     
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/azkhan980/azkhan980/blob/main/HEADER%20GIF.gif" alt="Banner Image" width="100%"/>
@@ -224,14 +232,14 @@
     <tr>
       <td align="center" width="45%">
         <h3>📘 MSc in Data Science</h3>
-        <p><em>University of East London (2025 — Present)</em></p>
+        <p><em>University of East London | London, England UK | (2025 - Present)</em></p>
         <p align="justify">
           Focused on Data Analytics, Machine Learning, and Statistical Modeling. Engaged in projects using Python, R, Big Data, and Visualization tools. Actively involved in AI Society activities, hackathons, and public speaking events.
         </p>
       </td>
       <td align="center" width="45%">
         <h3>📗 BSc in Business Administration</h3>
-        <p><em>Qualifi Ltd & LIBS (2021 — 2023)</em></p>
+        <p><em>Qualifi Ltd & LIBS  | London, England UK | (2021 - 2023)</em></p>
         <p align="justify">
           Graduated with Distinction (GPA: 83/100). Covered Strategic Marketing, Business Law, and Leadership. Completed multiple case studies, business simulations, and competitions to develop practical business skills.
         </p>
@@ -240,14 +248,14 @@
     <tr>
       <td align="center" width="45%">
         <h3>📙 Level 3 IFD (Business & Technology)</h3>
-        <p><em>NCC Education, UK (2020 — 2021)</em></p>
+        <p><em>NCC Education LTD  | Manchester, England UK | (2020 - 2021)</em></p>
         <p align="justify">
           Achieved Distinction (GPA: 71/100). Studied Business Strategy, Reporting, and Creative Communication. Participated in workshops, projects, and case studies to enhance practical knowledge and professional skills.
         </p>
       </td>
       <td align="center" width="45%">
         <h3>📕 Diploma in Web Designing & Development</h3>
-        <p><em>Habib University (iACT) (2016 — 2017)</em></p>
+        <p><em>Habib University (iACT) | Karachi, Pakistan | (2016 - 2017)</em></p>
         <p align="justify">
           Achieved Merit (GPA: 68/100). Studied HTML, CSS, Webpage Design, and Responsive Interfaces. Gained practical experience in troubleshooting, technical development, and improved professional communication skills.
         </p>
@@ -266,65 +274,73 @@
   <table>
     <tr>
       <td align="center" width="45%">
-        <h3>📊 Data Analytics</h3>
-        <p><em>Deloitte Australia - Forage (Sep '2025)</em></p>
+        <h3>💻 Technology Software Development</h3>
+        <p><em>Citi ICG<br>
+          Sydney, Australia (Sep '2025)</em></p>
         <p align="justify">
-          Completed a practical program on data analytics covering business problem-solving, data interpretation, and visualization techniques using modern analytics tools.
+          Completed a job simulation improving Citi’s loan management and stock risk reporting. Created a UML state diagram, researched ML systems for credit risk, and built a Java tool to visualize stock market risk in real time.
         </p>
       </td>
+      <td align="center" width="45%">
+        <h3>📊 Data Analytics</h3>
+        <p><em>Deloitte Australia<br>
+          Sydney, Australia (Sep '2025)</em></p>
+        <p align="justify">
+          Completed a Deloitte job simulation in data analysis and forensic technology. Created a Tableau dashboard and used Excel to classify data and derive business insights.
+        </p>
+      </td>
+    </tr>
+    <tr>
       <td align="center" width="45%">
         <h3>💼 Accounting Software Professional with ERP Implementation</h3>
-        <p><em>NED University (Feb '2025)</em></p>
+        <p><em>NED University<br>
+          Karachi, Pakistan (Feb '2025)</em></p>
         <p align="justify">
-          Gained hands-on knowledge in ERP implementation and accounting systems, focusing on financial data management, reporting, and business process optimization.
+          Trained in accounting concepts and financial management using software like Peachtree, Tally ERP, QuickBooks, and advanced Excel. Covered ledgers, vouchers, cash and bank reconciliation, trial balance, income statement, balance sheet, and cash flow.
         </p>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="45%">
         <h3>⛓️ Blockchain and P2P Fundamentals</h3>
-        <p><em>European Business Institute of Luxembourg (Jun '2024)</em></p>
+        <p><em>European Business Institute of Luxembourg<br>
+          Wiltz, Luxembourg (Jun '2024)</em></p>
         <p align="justify">
-          Studied the foundations of blockchain technology, decentralized networks, and peer-to-peer transactions, with insights into emerging fintech applications.
-        </p>
-      </td>
-      <td align="center" width="45%">
-        <h3>🌐 Foundations of Digital Marketing & E-Commerce</h3>
-        <p><em>Google (Jul '2024)</em></p>
-        <p align="justify">
-          Learned the basics of online marketing, including SEO, social media, and e-commerce strategies to optimize brand presence and digital customer engagement.
+          Gained hands-on experience in blockchain and decentralized digital currencies. Analyzed processes, tools, and P2P networks, explored their disruptive potential with AI and IoT, participated in digital currency transactions, and developed practical business models for integration or new ventures.
         </p>
       </td>
     </tr>
     <tr>
       <td align="center" width="45%">
-        <h3>🤖 Artificial Intelligence and Ethical Hacking</h3>
-        <p><em>PFTP (Sep '2023)</em></p>
+        <h3>🌐 Foundations of Digital Marketing & E-Commerce</h3>
+        <p><em>Google<br>
+          Remote, United States (Jul '2024)</em></p>
         <p align="justify">
-          Covered AI applications, machine learning concepts, and ethical hacking practices to strengthen system security and develop innovative digital solutions.
+          Learned digital marketing and e-commerce fundamentals, including customer engagement, analytics, and online store management. Gained skills in SEO, social media marketing, CRM, media planning, A/B testing, performance measurement, and data-driven marketing strategies.
         </p>
       </td>
       <td align="center" width="45%">
-        <h3>🎥 Creator Creator</h3>
-        <p><em>Instagram (Dec '2022)</em></p>
+        <h3>🤖 Artificial Intelligence and Ethical Hacking</h3>
+        <p><em>PFTP<br>
+          Lahore, Pakistan (Sep '2023)</em></p>
         <p align="justify">
-          Recognized as a digital content creator for producing engaging social media content, building audience interaction, and leveraging platform insights.
+          Learned ethical hacking and penetration testing using Metasploit and Kali Linux. Developed skills in vulnerability assessment, threat management, network monitoring, incident response, and responsible security reporting.
         </p>
       </td>
     </tr>
     <tr>
       <td align="center" width="45%">
         <h3>🖌️ Video Editing & Graphic Designing</h3>
-        <p><em>PFTP (Dec '2021)</em></p>
+        <p><em>PFTP<br>
+          Lahore, Pakistan (Dec '2021)</em></p>
         <p align="justify">
-          Trained in advanced video editing and graphic design techniques, focusing on creative storytelling, branding, and professional digital content production.
+          Trained in video editing and storytelling using Adobe Premiere Pro and After Effects. Learned mobile editing apps, audio design, green screen techniques, social media content creation, and freelancing tips for platforms like Fiverr and Upwork.
         </p>
       </td>
       <td align="center" width="45%">
         <h3>💻 Certificate in Information Technology</h3>
-        <p><em>Institute of Advancing Career and Talents (iACT) (Jun '2017)</em></p>
+        <p><em>Institute of Advancing Career and Talents (iACT)<br>
+          Karachi, Pakistan (Oct '2016)</em></p>
         <p align="justify">
-          Acquired foundational IT knowledge including computer systems, networking, software applications, and technical troubleshooting.
+          Studied computer fundamentals, office applications, networking, internet/email use, troubleshooting, programming basics, database management, web development, cybersecurity, and IT infrastructure.
         </p>
       </td>
     </tr>
@@ -332,6 +348,7 @@
 </p>
 
 ---
+
 <h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
   💻 PROGRAMMING & CODING LANGUAGES
 </h2>
