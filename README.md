@@ -33,30 +33,25 @@
   <a href="#-testimonials"><img src="https://img.shields.io/badge/Testimonials-1E90FF?style=for-the-badge&logo" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/azkhan980/azkhan980/blob/main/resume_azeem_khan.pdf">
-    <img src="https://img.shields.io/badge/Download%20CV-PDF-df2500?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV">
-  </a>
-</p>
-
 ---
 
-<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
-  🌟 ABOUT ME
-</h2>
 <table>
   <tr bgcolor="#f5f5f5"> 
     <td width="30%" align="center" style="vertical-align:top; padding:20px;">
-      <img src="https://github.com/azkhan980/azkhan980/blob/main/Profile%20Pic.jpg" alt="Profile Photo" width="250" style="border-radius:10px;"/>
+      <img src="https://github.com/azkhan980/azkhan980/blob/main/PP-Github.jpg" alt="Profile Photo" width="250" style="border-radius:10px;"/>
     </td>
     <td width="70%" align="left" style="vertical-align:top; line-height:1.6; padding:20px;">
+                <h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
+                  🌟 ABOUT ME
+                </h2>
       <p align="justify">
-        I’m a results-driven Data Science professional with a strong foundation in Business Administration, IT, and Digital Marketing.  
-        I turn data into actionable insights that drive smarter business strategies, digital growth, and customer engagement.  
-        With experience across corporate roles and freelance projects, I’ve applied data analysis, SEO, content creation, and campaign optimization using tools like Python, SQL, Google Ads, and Adobe Creative Suite.  
-        I combine analytical thinking with creative execution to deliver impactful solutions at the intersection of data, technology, and business.  
-        I also have expertise in multiple global languages, including English, German, Urdu, Hindi, and Arabic.
+        I’m a results-driven Data Science professional with a strong foundation in Business Administration, IT, and Digital Marketing. I turn data into actionable insights that drive smarter business strategies, digital growth, and customer engagement. With experience across corporate roles and freelance projects, I’ve applied data analysis, SEO, content creation, and campaign optimization using tools like Python, SQL, Google Ads, and Adobe Creative Suite. I combine analytical thinking with creative execution to deliver impactful solutions at the intersection of data, technology, and business. I also have expertise in multiple global languages, including English, German, Urdu, Hindi, and Arabic.
       </p>
+         <p align="center">
+  <a href="https://github.com/azkhan980/azkhan980/blob/main/azeem_khan_resume.pdf">
+    <img src="https://img.shields.io/badge/Download%20CV-PDF-df2500?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV">
+  </a>
+</p>
     </td>
   </tr>
 </table>
