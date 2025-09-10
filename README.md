@@ -14,27 +14,6 @@
 <h1 align="center">Hi, I'm Azeem Khan 👋</h1>
 <p align="center"><strong>Data Scientist · Marketing & IT Professional · Content Creator</strong></p>
 
-<!-- Quick Navigation -->
-<p align="center">
-  <a href="#-about"><img src="https://img.shields.io/badge/About-1E90FF?style=for-the-badge&logo" /></a>
-  <a href="#-projects"><img src="https://img.shields.io/badge/Projects-1E90FF?style=for-the-badge&logo" /></a>
-  <a href="#-work-experience"><img src="https://img.shields.io/badge/Work-1E90FF?style=for-the-badge&logo" /></a>
-  <a href="#-nft-gallery"><img src="https://img.shields.io/badge/NFTs-1E90FF?style=for-the-badge&logo" /></a>
-  <a href="#-education"><img src="https://img.shields.io/badge/Education-1E90FF?style=for-the-badge&logo" /></a>
-  <a href="#-licenses--certifications"><img src="https://img.shields.io/badge/Certifications-1E90FF?style=for-the-badge&logo" /></a>
-  <a href="#-programming--coding-languages"><img src="https://img.shields.io/badge/Coding-1E90FF?style=for-the-badge&logo" /></a>
-  <a href="#-skills-overview"><img src="https://img.shields.io/badge/Skills-1E90FF?style=for-the-badge&logo" /></a>
-  <a href="#-achievements"><img src="https://img.shields.io/badge/Achievements-1E90FF?style=for-the-badge&logo" /></a>
-  <a href="#-magazine-designs"><img src="https://img.shields.io/badge/Magazines-1E90FF?style=for-the-badge&logo" /></a>
-  <a href="#-volunteer-experience"><img src="https://img.shields.io/badge/Volunteer-1E90FF?style=for-the-badge&logo" /></a>
-  <a href="#-my-youtube-videos"><img src="https://img.shields.io/badge/YouTube-1E90FF?style=for-the-badge&logo" /></a>
-  <a href="#-github-stats"><img src="https://img.shields.io/badge/GitHub_Stats-1E90FF?style=for-the-badge&logo" /></a>
-  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Connect-1E90FF?style=for-the-badge&logo" /></a>
-  <a href="#-testimonials"><img src="https://img.shields.io/badge/Testimonials-1E90FF?style=for-the-badge&logo" /></a>
-</p>
-
----
-
 <table>
   <tr bgcolor="#f5f5f5"> 
     <td width="30%" align="center" style="vertical-align:top; padding:20px;">
@@ -42,7 +21,7 @@
     </td>
     <td width="70%" align="left" style="vertical-align:top; line-height:1.6; padding:20px;">
                 <h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
-                  🌟 ABOUT ME
+                  **ABOUT ME**
                 </h2>
       <p align="justify">
         I’m a results-driven Data Science professional with a strong foundation in Business Administration, IT, and Digital Marketing. I turn data into actionable insights that drive smarter business strategies, digital growth, and customer engagement. With experience across corporate roles and freelance projects, I’ve applied data analysis, SEO, content creation, and campaign optimization using tools like Python, SQL, Google Ads, and Adobe Creative Suite. I combine analytical thinking with creative execution to deliver impactful solutions at the intersection of data, technology, and business. I also have expertise in multiple global languages, including English, German, Urdu, Hindi, and Arabic.
@@ -59,144 +38,50 @@
 ---
 
 <h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
-  🧑‍💻 PROJECTS
+  **WEB PROJECTS**
 </h2>
 
-<div style="max-width: 900px; margin: 0 auto; text-align: justify; line-height: 1.6; padding: 20px;">
-
-  <h3>🔹 E-commerce Platform (Backend & Data Analytics Project) </h3>
-  
-  <p align="justify">
-    Developed and maintained the backend of <strong>daretehzeeb.com</strong>, an online clothing brand store. 
-    Implemented product and order management, integrated secure payment gateways, and optimized the database for efficient handling of customer data. 
-    Applied data science skills to track sales performance, customer behavior, and inventory trends, generating insights to improve marketing strategies and operational decisions.
-  </p>
-
-  <p>
-  <img src="https://img.shields.io/badge/Backend-Development-darkgreen" alt="Backend Development"/>
-  <img src="https://img.shields.io/badge/API-Design-purple" alt="API Design"/>
-  <img src="https://img.shields.io/badge/Database-MySQL%2FMongoDB-orange" alt="Database Management"/>
-  <img src="https://img.shields.io/badge/Payment-Integration-teal" alt="Payment Integration"/>
-  <img src="https://img.shields.io/badge/Data-Analytics-darkblue" alt="Data Analytics"/>
-  <img src="https://img.shields.io/badge/Python-yellow" alt="Python"/>
-</p>
-
-  <p><a href="https://daretehzeeb.com/"><img src="https://img.shields.io/badge/Visit Website-ff0000?style=for-the-badge&logo" /></a></p>
-
-  <p style="text-align:center;">
-    <a href="https://daretehzeeb.com/" target="_blank">
-      <img src="https://github.com/azkhan980/azkhan980/blob/main/WP01.png" alt="Dar-e-Tehzeeb" style="max-width:100%; border-radius:10px; box-shadow:0px 4px 12px rgba(0,0,0,0.1); "/>
-    </a>
-  </p>
-
-</div>
-
----
-
-<div style="max-width: 900px; margin: 0 auto; text-align: justify; line-height: 1.6; padding: 20px;">
-
-  <h3>🔹 Backend Systems & Data Analytics (Student Project) </h3>
-  
-  <p align="justify">
-    Worked on designing and optimizing backend systems, including REST APIs and database management, to efficiently support product and service workflows. 
-    Applied data analytics to monitor sales performance, customer interactions, and operational efficiency, providing actionable insights for business decisions.
-  </p>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-Django%2FFlask-blue" alt="Python (Django/Flask)"/>
-  <img src="https://img.shields.io/badge/Node.js-green" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/REST-APIs-orange" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/MySQL-blueviolet" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-lightblue" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-darkgreen" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Pandas-grey" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-teal" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-Matplotlib%2FPowerBI-brown" alt="Data Visualization"/>
-  <img src="https://img.shields.io/badge/Git%2FGitHub-black" alt="Git/GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-darkblue" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS%2FHeroku-red" alt="AWS/Heroku"/>
-</p>
-
-  <p><a href="https://www.manshabrothers.com/"><img src="https://img.shields.io/badge/Visit Website-ff0000?style=for-the-badge&logo" /></a></p>
-
-  <p style="text-align:center;">
-    <a href="https://www.manshabrothers.com/" target="_blank">
-      <img src="https://github.com/azkhan980/azkhan980/blob/main/WP02.png" alt="Mansha Brothers" style="max-width:100%; border-radius:10px; box-shadow:0px 4px 12px rgba(0,0,0,0.1);"/>
-    </a>
-  </p>
-
-</div>
-
----
-
-<div style="max-width: 900px; margin: 0 auto; text-align: justify; line-height: 1.6; padding: 20px;">
-
-  <h3>🔹 Startup Landing Page Prototype </h3>
-  
-  <p align="justify">
-    Developed a prototype landing page for a startup product, focusing on a clean and modern interface, strong call-to-actions, and an optimized layout to maximize user engagement. Implemented responsive design to ensure seamless performance across desktop and mobile devices, and incorporated interactive elements to enhance user experience.
-  </p>
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-orange" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-blue" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Responsive-Web%20Design-lightgreen" alt="Responsive Web Design"/>
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-pink" alt="UI/UX Design"/>
-  <img src="https://img.shields.io/badge/Frontend-Prototyping-purple" alt="Frontend Prototyping"/>
-  <img src="https://img.shields.io/badge/Interactive-Elements-brown" alt="Interactive Elements"/>
-  <img src="https://img.shields.io/badge/Figma%2FDesign-Tools-black" alt="Figma/Design Tools"/>
-</p>
-
-  <p><a href="https://ststub-landing.preview.emergentagent.com/"><img src="https://img.shields.io/badge/Visit Website-ff0000?style=for-the-badge&logo" /></a></p>
-
-  <p style="text-align:center;">
-    <a href="https://ststub-landing.preview.emergentagent.com/" target="_blank">
-      <img src="https://github.com/azkhan980/azkhan980/blob/main/WP03.png" alt="STStub Landing Page" style="max-width:100%; border-radius:10px; box-shadow:0px 4px 12px rgba(0,0,0,0.1);"/>
-    </a>
-  </p>
-
-</div>
+| Description & Key Skills | Preview |
+|--------------------------|---------|
+| <p align="justify"> **🔹 E-commerce Platform (Backend & Data Analytics Project)** <br> Developed and maintained the backend of <strong>daretehzeeb.com</strong>, an online clothing brand store. Implemented product and order management, integrated secure payment gateways, and optimized the database for efficient handling of customer data. Applied data science skills to track sales performance, customer behavior, and inventory trends, generating insights to improve marketing strategies and operational decisions. <br><br> ![Backend](https://img.shields.io/badge/Backend-Development-darkgreen) ![API](https://img.shields.io/badge/API-Design-purple) ![Database](https://img.shields.io/badge/Database-MySQL%2FMongoDB-orange) ![Payment](https://img.shields.io/badge/Payment-Integration-teal) ![Analytics](https://img.shields.io/badge/Data-Analytics-darkblue) ![Python](https://img.shields.io/badge/Python-yellow) </p> | <a href="https://daretehzeeb.com/" target="_blank"><img src="https://github.com/azkhan980/azkhan980/blob/main/WEB%2001.png" alt="Dar-e-Tehzeeb" width="320"/></a> |
+| <p align="justify"> **🔹 Backend Systems & Data Analytics (Student Project)** <br> Worked on designing and optimizing backend systems, including REST APIs and database management, to efficiently support product and service workflows. Applied data analytics to monitor sales performance, customer interactions, and operational efficiency, providing actionable insights for business decisions. <br><br> ![Python](https://img.shields.io/badge/Python-Django%2FFlask-blue) ![Node.js](https://img.shields.io/badge/Node.js-green) ![REST](https://img.shields.io/badge/REST-APIs-orange) ![MySQL](https://img.shields.io/badge/MySQL-blueviolet) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-lightblue) ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen) ![NumPy](https://img.shields.io/badge/NumPy-teal) ![Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib%2FPowerBI-brown) ![AWS](https://img.shields.io/badge/AWS%2FHeroku-red) ![Pandas](https://img.shields.io/badge/Pandas-grey) ![Docker](https://img.shields.io/badge/Docker-darkblue) </p> | <a href="https://www.manshabrothers.com/" target="_blank"><img src="https://github.com/azkhan980/azkhan980/blob/main/WEB%2002.png" alt="Mansha Brothers" width="320"/></a> |
+| <p align="justify"> **🔹 Startup Landing Page Prototype** <br> Developed a prototype landing page for a startup product, focusing on a clean and modern interface, strong call-to-actions, and an optimized layout to maximize user engagement. Implemented responsive design to ensure seamless performance across desktop and mobile devices, and incorporated interactive elements to enhance user experience. <br><br> ![HTML](https://img.shields.io/badge/HTML-orange) ![CSS](https://img.shields.io/badge/CSS-blue) ![Responsive](https://img.shields.io/badge/Responsive-Web%20Design-lightgreen) ![Frontend](https://img.shields.io/badge/Frontend-Prototyping-purple) ![Interactive](https://img.shields.io/badge/Interactive-Elements-brown) ![Figma](https://img.shields.io/badge/Figma%2FDesign-Tools-black) ![JS](https://img.shields.io/badge/JavaScript-yellow) ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-pink) </p> | <a href="https://ststub-landing.preview.emergentagent.com/" target="_blank"><img src="https://github.com/azkhan980/azkhan980/blob/main/WEB%2003.png" alt="Startup Landing Page" width="320"/></a> |
 
 ---
 
 <h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
-  💼 WORK EXPERIENCE
+  **WORK EXPERIENCE**
 </h2>
 
 <p align="center">
-  <table align="center" width="90%" cellspacing="0" cellpadding="15" style="border-collapse: collapse;">
+  <table>
     <tr>
-      <td style="border:1px solid #ccc;" valign="top" align="center">
-       <strong>Data and IT Support Specialist</strong><br/>
-        Mansha Brothers | Karachi, Pakistan | Jan '2024 to Aug '2025 <br/><br/>
+      <td align="center" width="45%">
+        <h3>Data and IT Support Specialist</h3>
+        <p><em>Mansha Brothers | Karachi, Pakistan | Jan '2024 – Aug '2025</em></p>
         <p align="justify">
           Developed and implemented IT support strategies to optimize system performance and data workflows. Conducted diagnostics, analyzed feedback, and improved IT services and processes. Supported marketing campaigns by analyzing data, managing content, and optimizing workflows. Coordinated software installations, updates, and system rollouts.
         </p>
       </td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #ccc;" valign="top" align="center">
-       <strong>Data Management & Marketing Assistant</strong><br/>
-        PhoenixiTek | United States (Remote) | Aug '2022 to Aug '2023 <br/><br/>
+      <td align="center" width="45%">
+        <h3>Data Management & Marketing Assistant</h3>
+        <p><em>PhoenixiTek | United States (Remote) | Aug '2022 – Aug '2023</em></p>
         <p align="justify">
           Supported digital marketing initiatives and managed key data operations remotely. Handled accurate data entry, maintained digital information, and assisted in web design tasks. Analyzed data to support decision-making and online marketing campaigns. Improved operational efficiency and enhanced brand presence.
         </p>
       </td>
     </tr>
     <tr>
-      <td style="border:1px solid #ccc;" valign="top" align="center">
-       <strong>Junior Student Affairs Coordinator</strong><br/>
-        Denning Law School | Karachi, Pakistan | Jul '2021 to Dec '2022 <br/><br/>
+      <td align="center" width="45%">
+        <h3>Junior Student Affairs Coordinator</h3>
+        <p><em>Denning Law School | Karachi, Pakistan | Jul '2021 – Dec '2022</em></p>
         <p align="justify">
           Managed administrative tasks to ensure smooth operations. Handled social media platforms to improve communication and engagement. Coordinated academic and extracurricular events to boost student experience. Developed strong organizational, communication, and leadership skills.
         </p>
       </td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #ccc;" valign="top" align="center">
-       <strong>Freelancer (Self-Employed)</strong><br/>
-        Freelance Services | United States (Remote) | May '2019 to Dec '2021 <br/><br/>
+      <td align="center" width="45%">
+        <h3>Freelancer (Self-Employed)</h3>
+        <p><em>Freelance Services | United States (Remote) | May '2019 – Dec '2021</em></p>
         <p align="justify">
           Delivered creative services in graphic design, video editing, digital art (NFTs), and UX/UI. Managed content across YouTube, TikTok, Instagram, Facebook, and X. Provided SEO, branding, and marketing support. Handled bookkeeping, taxation, and basic accounting tasks for clients.
         </p>
@@ -206,26 +91,26 @@
 </p>
 
 ---
-<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
-  🎨 NFTs GALLERY
-</h2>
 
-<p align="center">
-  <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT01.jpg" width="200"/>
-  <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT02.jpg" width="200"/>
-  <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT03.jpg" width="200"/>
-  <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT04.jpg" width="200"/>
-  <br/>
-  <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT05.jpg" width="200"/>
-  <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT06.jpg" width="200"/>
-  <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT07.jpg" width="200"/>
-  <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT08.jpg" width="200"/>
-</p>
+<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
+  **NFTs GALLERY**
+</h2>
+  <p align="center">
+    <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT01.jpg" width="200"/>
+    <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT02.jpg" width="200"/>
+    <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT03.jpg" width="200"/>
+    <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT04.jpg" width="200"/>
+    <br/>
+    <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT05.jpg" width="200"/>
+    <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT06.jpg" width="200"/>
+    <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT07.jpg" width="200"/>
+    <img src="https://github.com/azkhan980/azkhan980/blob/main/NFT08.jpg" width="200"/>
+  </p>
 
 ---
 
 <h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
-  🎓 EDUCATION
+  **EDUCATION**
 </h2>
 
 <p align="center">
@@ -268,7 +153,109 @@
 ---
 
 <h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
-  📜 LICENSES & CERTIFICATIONS
+  TECH, TOOLS & CREATIVE EXPERTISE
+</h2>
+
+<p align="center">
+  <!-- Programming & Data Analysis -->
+  <img src="https://img.shields.io/badge/Python%20(Pandas%2C%20NumPy%2C%20Matplotlib)-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NoSQL-100000?style=for-the-badge&logo=mongodb&logoColor=green"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAS-252B4A?style=for-the-badge&logo=sas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  
+  <!-- Web Development & Design -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electrical%20Layouts-808080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-009688?style=for-the-badge&logo=responsivedesign&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Interface%20Design-5C2D91?style=for-the-badge"/>
+  
+  <!-- Data & Analytics Tools -->
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Dynamics%20365-002050?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  
+  <!-- Software & Design Tools -->
+  <img src="https://img.shields.io/badge/MS%20Office%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Filmora-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white"/>
+  
+  <!-- AI Tools -->
+  <img src="https://img.shields.io/badge/Nano%20Banana-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Higgsfield-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Veo3-4682B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MidJourney-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-FF4500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Runway%20Gen--2-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Adobe%20Firefly-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva%20AI-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Copy.ai-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jasper%20AI-FF69B4?style=for-the-badge"/>
+  
+  <!-- Cloud & Collaboration -->
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  
+  <!-- Digital Marketing & Social Media -->
+  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SEMrush-F06A6A?style=for-the-badge&logo=semrush&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Meta%20Business%20Suite-1877F2?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Campaign%20Optimization-8B0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Budget%20Optimization-006400?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Branding-ff9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Storytelling-800080?style=for-the-badge"/>
+  
+  <!-- Additional Expertise -->
+  <img src="https://img.shields.io/badge/NFTs-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Marketing%20Strategy-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/B2B%20Marketing-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Campaign%20Development-8B0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cryptocurrency-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
+  **LICENSES & CERTIFICATIONS**
 </h2>
 
 <p align="center">
@@ -351,90 +338,7 @@
 ---
 
 <h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
-  💻 PROGRAMMING & CODING LANGUAGES
-</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAS-252B4A?style=for-the-badge&logo=sas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NoSQL-100000?style=for-the-badge&logo=mongodb&logoColor=green"/>
-</p>
-
----
-
-<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
-  🛠️ SKILLS OVERVIEW
-</h2>
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="45%">
-        <h3>💻 Software & Tools</h3>
-        <p>MS Office 365 · Filmora · Figma · Canva · Premiere Pro · Adobe Photoshop · Adobe Illustrator · Adobe InDesign</p>
-      </td>
-      <td align="center" width="45%">
-        <h3>🌐 Web Development</h3>
-        <p>HTML · CSS · WordPress · Electrical Layouts · Responsive Design · Intuitive Eating · Interface Design</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="45%">
-        <h3>📈 Digital Marketing</h3>
-        <p>Google Ads · Google Analytics · SEMrush · Meta Business Suite · Campaign Optimization · Campaign Budget Optimization</p>
-      </td>
-      <td align="center" width="45%">
-        <h3>🎨 Content Creation & Social Media</h3>
-        <p>YouTube · Instagram · TikTok · Facebook · X/Twitter · Focus on Engagement · Branding · Storytelling</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="45%">
-        <h3>📊 Data Analysis & Visualization</h3>
-        <p>Python (Pandas, NumPy, Matplotlib) · SQL · Excel · Tableau · Power BI · Machine Learning · Scikit-learn</p>
-      </td>
-      <td align="center" width="45%">
-        <h3>🤖 AI Tools Expertise</h3>
-        <p>Nano Banana · Higgsfield · Veo3 · ChatGPT · MidJourney · Stable Diffusion · Runway Gen-2 · Adobe Firefly · Canva AI · Copy.ai · Jasper AI</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="45%">
-        <h3>☁️ Cloud & Collaboration</h3>
-        <p>Google Cloud Platform (GCP) · GitHub · AWS · Git · GitHub Copilot · Version Control · Workflows</p>
-      </td>
-      <td align="center" width="45%">
-        <h3>🌐 Web3 & Additional Expertise</h3>
-        <p>NFTs · Marketing Strategy · B2B Marketing Strategy · Campaign Strategy Development · Cryptocurrency · Blockchain Network · Blockchain Database</p>
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
-<h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
-  🏆 ACHIEVEMENTS
+  **ACHIEVEMENTS**
 </h2>
 
 <div align="center">
@@ -459,7 +363,7 @@
 ---
 
 <h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
-  📖 MAGAZINE DESIGNS
+  **MAGAZINE DESIGNS**
 </h2>
 
 <div style="text-align:center;">
@@ -486,7 +390,7 @@
 ---
 
 <h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
-  🤝 VOLUNTEER EXPERIENCE
+  **VOLUNTEER EXPERIENCE**
 </h2>
 
 <p align="center">
@@ -520,7 +424,7 @@
 
 ---
 <h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
-  📺 MY YOUTUBE VIDEOS
+  **MY YOUTUBE VIDEOS**
 </h2>
 
 <p align="center">
@@ -551,7 +455,7 @@
 ---
 
 <h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
-  📊 GITHUB STATS
+  **GITHUB STATS**
 </h2>
 
 <p align="center">
@@ -562,7 +466,7 @@
 ---
 
 <h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
-  🌐 CONNECT WITH ME
+  **CONNECT WITH ME**
 </h2>
 
 <p align="center">
@@ -575,7 +479,7 @@
 ---
 
 <h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
-  📝 TESTIMONIALS
+  **TESTIMONIALS**
 </h2>
 
 <p align="center">
