@@ -44,16 +44,22 @@
 <h2 align="center" style="font-family:Calibri, sans-serif; font-weight:bold; text-transform:uppercase;">
   🌟 ABOUT ME
 </h2>
-
-<p align="center">
-  <img src="https://github.com/azkhan980/azkhan980/blob/main/Profile%20Photo%20GIF.gif" alt="Profile Photo" width="250"/>
-</p>
-
-<div style="max-width: 800px; margin: 0 auto; text-align: justify; line-height: 1.6; padding: 10px;">
-  <p align="justify">
-    I’m a results-driven Data Science professional with a strong foundation in Business Administration, IT, and Digital Marketing. I turn data into actionable insights that drive smarter business strategies, digital growth, and customer engagement. With experience across corporate roles and freelance projects, I’ve applied data analysis, SEO, content creation, and campaign optimization using tools like Python, SQL, Google Ads, and Adobe Creative Suite. I combine analytical thinking with creative execution to deliver impactful solutions at the intersection of data, technology, and business. I also have expertise in multiple global languages, including English, German, Urdu, Hindi, and Arabic.
-    </p>
-</div>
+<table>
+  <tr bgcolor="#f5f5f5"> 
+    <td width="30%" align="center" style="vertical-align:top; padding:20px;">
+      <img src="https://github.com/azkhan980/azkhan980/blob/main/Profile%20Pic.jpg" alt="Profile Photo" width="250" style="border-radius:10px;"/>
+    </td>
+    <td width="70%" align="left" style="vertical-align:top; line-height:1.6; padding:20px;">
+      <p align="justify">
+        I’m a results-driven Data Science professional with a strong foundation in Business Administration, IT, and Digital Marketing.  
+        I turn data into actionable insights that drive smarter business strategies, digital growth, and customer engagement.  
+        With experience across corporate roles and freelance projects, I’ve applied data analysis, SEO, content creation, and campaign optimization using tools like Python, SQL, Google Ads, and Adobe Creative Suite.  
+        I combine analytical thinking with creative execution to deliver impactful solutions at the intersection of data, technology, and business.  
+        I also have expertise in multiple global languages, including English, German, Urdu, Hindi, and Arabic.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
